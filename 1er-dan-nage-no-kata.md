@@ -1,4 +1,4 @@
-# 🥋 Guía de Estudio: Nage-no-Kata (1.er Dan / Shodan)
+# 🥋 Guía de Estudio Integral: Examen de 1.er Dan (Shodan)
 
 ---
 
@@ -13,7 +13,7 @@ El programa de examen técnico para el grado de *Shodan* abarca las proyecciones
 
 ---
 
-## 📌 Clasificación General de las Técnicas (Nage-waza)
+## 📌 Clasificación General de las Técnicas de Pie (Nage-waza)
 
 El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shodan* se clasifica en cinco familias principales:
 
@@ -39,6 +39,18 @@ El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se
 
 ---
 
+## 📌 Las Tres Fases de Ejecución Técnica (Sankyo)
+
+Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada técnica requiere la sincronización impecable de tres etapas fundamentales:
+
+| Fase | Término Japonés | Descripción en Pie (*Tachi-waza*) | Descripción en Suelo (*Ne-waza*) |
+| :---: | :--- | :--- | :--- |
+| **1.ª** | *Kuzushi* | Desequilibrio en una de las 8 direcciones (*Happo-no-kuzushi*). | Anulación de los puntos de apoyo o postura defensiva de *Uke*. |
+| **2.ª** | *Tsukuri* | Colocación y entrada del cuerpo de *Tori* en la posición óptima. | Toma de agarres (*Kumi-kata*) y fijación del ángulo de control. |
+| **3.ª** | *Kake* | Aplicación de la fuerza final y proyección limpia sobre el tatami. | Cierre del control (inmovilización, estrangulación o luxación). |
+
+---
+
 ## 🥋 Parte 1: Las 15 Técnicas del Nage-no-Kata (Proyecciones)
 
 ---
@@ -47,9 +59,9 @@ El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **1** | *Uki otoshi* | Proyección flotante | <img src="images/uki-otoshi.jpg" alt="Uki Otoshi" width="180"> |
-| **2** | *Seoi nage* | Proyección cargando sobre la espalda | <img src="images/seoi-nage.png" alt="Seoi Nage" width="180"> |
-| **3** | *Kata guruma* | Rueda sobre los hombros *(Molinete)* | <img src="images/kata-guruma.png" alt="Kata Guruma" width="180"> |
+| **1** | *Uki-otoshi* | Proyección flotante | <img src="images/uki-otoshi.jpg" alt="Uki-otoshi" width="180"> |
+| **2** | *Seoi-nage* | Proyección cargando sobre la espalda | <img src="images/seoi-nage.png" alt="Seoi-nage" width="180"> |
+| **3** | *Kata-guruma* | Rueda sobre los hombros *(Molinete)* | <img src="images/kata-guruma.png" alt="Kata-guruma" width="180"> |
 
 ---
 
@@ -57,9 +69,9 @@ El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **4** | *Uki goshi* | Cadera flotante | <img src="images/uki-goshi.png" alt="Uki Goshi" width="180"> |
-| **5** | *O goshi* | Gran cadera | <img src="images/o-goshi.jpg" alt="O Goshi" width="180"> |
-| **6** | *Harai goshi* | Cadera barrida | <img src="images/harai-goshi.png" alt="Harai Goshi" width="180"> |
+| **4** | *Uki-goshi* | Cadera flotante | <img src="images/uki-goshi.png" alt="Uki-goshi" width="180"> |
+| **5** | *O-goshi* | Gran cadera | <img src="images/o-goshi.jpg" alt="O-goshi" width="180"> |
+| **6** | *Harai-goshi* | Cadera barrida | <img src="images/harai-goshi.png" alt="Harai-goshi" width="180"> |
 
 ---
 
@@ -67,9 +79,9 @@ El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **7** | *Deashi barai* | Barrido al pie de salida | <img src="images/deashi-barai.jpg" alt="Deashi Barai" width="180"> |
-| **8** | *Hiza guruma* | Rueda a la rodilla | <img src="images/hiza-guruma.jpg" alt="Hiza Guruma" width="180"> |
-| **9** | *Sasae tsurikomi ashi* | Pie bloqueado pescando | <img src="images/sasae-tsurikomi-ashi.jpg" alt="Sasae Tsurikomi Ashi" width="180"> |
+| **7** | *De-ashi-harai* | Barrido al pie de salida | <img src="images/deashi-barai.jpg" alt="De-ashi-harai" width="180"> |
+| **8** | *Hiza-guruma* | Rueda a la rodilla | <img src="images/hiza-guruma.jpg" alt="Hiza-guruma" width="180"> |
+| **9** | *Sasae-tsurikomi-ashi* | Pie bloqueado pescando | <img src="images/sasae-tsurikomi-ashi.jpg" alt="Sasae-tsurikomi-ashi" width="180"> |
 
 ---
 
@@ -77,9 +89,9 @@ El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **10** | *Tomoe nage* | Proyección en círculo | <img src="images/tomoe-nage.png" alt="Tomoe Nage" width="180"> |
-| **11** | *Sumi gaeshi* | Inversión a la esquina | <img src="images/sumi-gaeshi.png" alt="Sumi Gaeshi" width="180"> |
-| **12** | *Ura nage* | Proyección hacia atrás *(Suplex)* | <img src="images/ura-nage.png" alt="Ura Nage" width="180"> |
+| **10** | *Tomoe-nage* | Proyección en círculo | <img src="images/tomoe-nage.png" alt="Tomoe-nage" width="180"> |
+| **11** | *Sumi-gaeshi* | Inversión a la esquina | <img src="images/sumi-gaeshi.png" alt="Sumi-gaeshi" width="180"> |
+| **12** | *Ura-nage* | Proyección hacia atrás *(Suplex)* | <img src="images/ura-nage.png" alt="Ura-nage" width="180"> |
 
 ---
 
@@ -87,9 +99,9 @@ El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **13** | *Yoko otoshi* | Caída lateral | <img src="images/yoko-otoshi.png" alt="Yoko Otoshi" width="180"> |
-| **14** | *Tani otoshi* | Caída al valle | <img src="images/tani-otoshi.png" alt="Tani Otoshi" width="180"> |
-| **15** | *Soto makikomi* | Envolvente exterior | <img src="images/soto-makikomi.png" alt="Soto Makikomi" width="180"> |
+| **13** | *Yoko-otoshi* | Caída lateral | <img src="images/yoko-otoshi.png" alt="Yoko-otoshi" width="180"> |
+| **14** | *Tani-otoshi* | Caída al valle | <img src="images/tani-otoshi.png" alt="Tani-otoshi" width="180"> |
+| **15** | *Soto-makikomi* | Envolvente exterior | <img src="images/soto-makikomi.png" alt="Soto-makikomi" width="180"> |
 
 ---
 
@@ -101,11 +113,11 @@ El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **1** | *Kesa-gatame* | Inmovilización fundamental en bufanda | <img src="images/kesa-gatame.png" alt="Kesa Gatame" width="180"> |
-| **2** | *Kata-gatame* | Inmovilización por el hombro | <img src="images/kata-gatame.png" alt="Kata Gatame" width="180"> |
-| **3** | *Kami-shiho-gatame* | Inmovilización superior de cuatro puntos | <img src="images/kami-shiho-gatame.png" alt="Kami Shiho Gatame" width="180"> |
-| **4** | *Yoko-shiho-gatame* | Inmovilización lateral de cuatro puntos | <img src="images/yoko-shiho-gatame.png" alt="Yoko Shiho Gatame" width="180"> |
-| **5** | *Kuzure-kami-shiho-gatame* | Variante de inmovilización superior | <img src="images/kuzure-kami-shiho-gatame.png" alt="Kuzure Kami Shiho Gatame" width="180"> |
+| **1** | *Kesa-gatame* | Inmovilización fundamental en bufanda | <img src="images/kesa-gatame.png" alt="Kesa-gatame" width="180"> |
+| **2** | *Kata-gatame* | Inmovilización por el hombro | <img src="images/kata-gatame.png" alt="Kata-gatame" width="180"> |
+| **3** | *Kami-shiho-gatame* | Inmovilización superior de cuatro puntos | <img src="images/kami-shiho-gatame.png" alt="Kami-shiho-gatame" width="180"> |
+| **4** | *Yoko-shiho-gatame* | Inmovilización lateral de cuatro puntos | <img src="images/yoko-shiho-gatame.png" alt="Yoko-shiho-gatame" width="180"> |
+| **5** | *Kuzure-kami-shiho-gatame* | Variante de inmovilización superior | <img src="images/kuzure-kami-shiho-gatame.png" alt="Kuzure-kami-shiho-gatame" width="180"> |
 
 ---
 
@@ -113,11 +125,11 @@ El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **6** | *Kata-juji-jime* | Estrangulación cruzada mixta / de lado | <img src="images/kata-juji-jime.png" alt="Kata Juji Jime" width="180"> |
-| **7** | *Hadaka-jime* | Estrangulación a cuello desnudo (sin solapa) | <img src="images/hadaka-jime.png" alt="Hadaka Jime" width="180"> |
-| **8** | *Okuri-eri-jime* | Estrangulación deslizando la solapa | <img src="images/okuri-eri-jime.png" alt="Okuri Eri Jime" width="180"> |
-| **9** | *Kata-ha-jime* | Estrangulación atrapando un hombro/brazo | <img src="images/kata-ha-jime.png" alt="Kata Ha Jime" width="180"> |
-| **10** | *Gyaku-juji-jime* | Estrangulación cruzada inversa | <img src="images/gyaku-juji-jime.png" alt="Gyaku Juji Jime" width="180"> |
+| **6** | *Kata-juji-jime* | Estrangulación cruzada mixta / de lado | <img src="images/kata-juji-jime.png" alt="Kata-juji-jime" width="180"> |
+| **7** | *Hadaka-jime* | Estrangulación a cuello desnudo (sin solapa) | <img src="images/hadaka-jime.png" alt="Hadaka-jime" width="180"> |
+| **8** | *Okuri-eri-jime* | Estrangulación deslizando la solapa | <img src="images/okuri-eri-jime.png" alt="Okuri-eri-jime" width="180"> |
+| **9** | *Kata-ha-jime* | Estrangulación atrapando un hombro/brazo | <img src="images/kata-ha-jime.png" alt="Kata-ha-jime" width="180"> |
+| **10** | *Gyaku-juji-jime* | Estrangulación cruzada inversa | <img src="images/gyaku-juji-jime.png" alt="Gyaku-juji-jime" width="180"> |
 
 ---
 
@@ -125,12 +137,11 @@ El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **11** | *Ude-garami* | Luxación de brazo entrelazado / en llave | <img src="images/ude-garami.png" alt="Ude Garami" width="180"> |
-| **12** | *Ude-hishigi-juji-gatame* | Luxación de brazo en cruz | <img src="images/ude-hishigi-juji-gatame.png" alt="Ude Hishigi Juji Gatame" width="180"> |
-| **13** | *Ude-hishigi-ude-gatame* | Luxación aprisionando el brazo con las manos | <img src="images/ude-hishigi-ude-gatame.png" alt="Ude Hishigi Ude Gatame" width="180"> |
-| **14** | *Ude-hishigi-hiza-gatame* | Luxación de brazo apoyado en la rodilla | <img src="images/ude-hishigi-hiza-gatame.png" alt="Ude Hishigi Hiza Gatame" width="180"> |
-| **15** | *Ude-hishigi-waki-gatame* | Luxación de brazo apoyado en la axila | <img src="images/ude-hishigi-waki-gatame.png" alt="Ude Hishigi Waki Gatame" width="180"> |
-
+| **11** | *Ude-garami* | Luxación de brazo entrelazado / en llave | <img src="images/ude-garami.png" alt="Ude-garami" width="180"> |
+| **12** | *Ude-hishigi-juji-gatame* | Luxación de brazo en cruz | <img src="images/ude-hishigi-juji-gatame.png" alt="Ude-hishigi-juji-gatame" width="180"> |
+| **13** | *Ude-hishigi-ude-gatame* | Luxación aprisionando el brazo con las manos | <img src="images/ude-hishigi-ude-gatame.png" alt="Ude-hishigi-ude-gatame" width="180"> |
+| **14** | *Ude-hishigi-hiza-gatame* | Luxación de brazo apoyado en la rodilla | <img src="images/ude-hishigi-hiza-gatame.png" alt="Ude-hishigi-hiza-gatame" width="180"> |
+| **15** | *Ude-hishigi-waki-gatame* | Luxación de brazo apoyado en la axila | <img src="images/ude-hishigi-waki-gatame.png" alt="Ude-hishigi-waki-gatame" width="180"> |
 
 ---
 
