@@ -20,3 +20,13 @@ El segundo grupo introduce combinaciones de mayor velocidad, desplazamientos cir
 | **6** | Ashi-waza | *Ko-uchi-gari* | Pequeña sega interior | <img src="images/ko-uchi-gari.png" alt="Ko-uchi-gari" width="180"> |
 | **7** | Ashi-waza | *Okuri-ashi-harai* | Barrido de ambos pies en movimiento | <img src="images/okuri-ashi-harai.png" alt="Okuri-ashi-harai" width="180"> |
 | **8** | Ma-sutemi-waza | *Tomoe-nage* | Proyección en círculo | <img src="images/tomoe-nage.png" alt="Tomoe-nage" width="180"> |
+
+## 🤼 Técnicas de Suelo (Katame-waza / Ne-waza)
+
+| N.º | Grupo | Técnica | Traducción | Ilustración |
+| :---: | :--- | :--- | :--- | :---: |
+| **1** | Osaekomi-waza | *Kata-gatame* | Inmovilización por el hombro | <img src="images/kata-gatame.png" alt="Kata-gatame" width="180"> |
+| **2** | Osaekomi-waza | *Kuzure-kami-shiho-gatame* | Variante de inmovilización superior | <img src="images/kuzure-kami-shiho-gatame.png" alt="Kuzure-kami-shiho-gatame" width="180"> |
+| **3** | Shime-waza | *Nami-juji-jime* | Estrangulación cruzada normal | <img src="images/nami-juji-jime.png" alt="Nami-juji-jime" width="180"> |
+| **4** | Shime-waza | *Gyaku-juji-jime* | Estrangulación cruzada inversa | <img src="images/gyaku-juji-jime.png" alt="Gyaku-juji-jime" width="180"> |
+| **5** | Shime-waza | *Kata-juji-jime* | Estrangulación cruzada de lado | <img src="images/kata-juji-jime.png" alt="Kata-juji-jime" width="180"> |
