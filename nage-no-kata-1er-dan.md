@@ -14,28 +14,19 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 | **4.** | *Ma-sutemi-waza* | Técnicas de sacrificio dorsal (hacia atrás) |
 | **5.** | *Yoko-sutemi-waza* | Técnicas de sacrificio lateral (de costado) |
 
-> 💡 **Nota teórica para el examen:** 
-> En el programa de evaluación oral/escrito también se examinan las técnicas de control en suelo (**Katame-waza** / **Ne-waza**), subdivididas en:
-> * **Osaekomi-waza:** Técnicas de inmovilización.
-> * **Shime-waza:** Técnicas de estrangulación.
-> * **Kansetsu-waza:** Técnicas de luxación articular.
-
 ---
 
 ## 🥋 Las 15 Técnicas del Nage-no-Kata
 
 ---
 
-### 1. Te-waza *(Técnicas de Brazo)*
+### 1. Te-waza (Técnicas de Brazo)
 
-#### 1. *Uki otoshi* — Proyección flotante
-* **Ejecución:** *Tori* desequilibra a *Uke* hacia adelante bajando su centro de gravedad y proyectándolo mediante la acción exclusiva de los brazos y manos, sin apoyo de cadera.
-
-#### 2. *Seoi nage* — Proyección cargando sobre la espalda
-* **Ejecución:** *Tori* coloca su espalda en contacto directo con el torso de *Uke* (pasando el brazo por la axila o el hombro) y realiza un giro completo para proyectarlo por encima de su cuerpo.
-
-#### 3. *Kata guruma* — Rueda sobre los hombros (Molinete)
-* **Ejecución:** *Tori* flexiona profundamente las piernas, introduce un brazo entre los muslos de *Uke* y el otro rodea la espalda, cargándolo sobre ambos hombros para voltearlo en movimiento circular.
+| N.º | Técnica | Traducción | Ejecución |
+| :---: | :--- | :--- | :--- |
+| **1** | *Uki otoshi* | Proyección flotante | **Tori** desequilibra a **Uke** hacia adelante bajando su centro de gravedad y proyectándolo mediante la acción exclusiva de los brazos y manos, sin apoyo de cadera. |
+| **2** | *Seoi nage* | Proyección cargando sobre la espalda | **Tori** coloca su espalda en contacto directo con el torso de **Uke** (pasando el brazo por la axila o el hombro) y realiza un giro completo para proyectarlo por encima de su cuerpo. |
+| **3** | *Kata guruma* | Rueda sobre los hombros *(Molinete)* | **Tori** flexiona profundamente las piernas, introduce un brazo entre los muslos de **Uke** y el otro rodea la espalda, cargándolo sobre ambos hombros para voltearlo en movimiento circular. |
 
 ---
 
