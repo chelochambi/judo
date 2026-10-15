@@ -22,48 +22,48 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 
 ### 1. Te-waza (Técnicas de Brazo)
 
-| N.º | Técnica | Traducción | Ejecución |
+| N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :--- |
-| **1** | *Uki otoshi* | Proyección flotante | **Tori** desequilibra a **Uke** hacia adelante bajando su centro de gravedad y proyectándolo mediante la acción exclusiva de los brazos y manos, sin apoyo de cadera. |
-| **2** | *Seoi nage* | Proyección cargando sobre la espalda | **Tori** coloca su espalda en contacto directo con el torso de **Uke** (pasando el brazo por la axila o el hombro) y realiza un giro completo para proyectarlo por encima de su cuerpo. |
-| **3** | *Kata guruma* | Rueda sobre los hombros *(Molinete)* | **Tori** flexiona profundamente las piernas, introduce un brazo entre los muslos de **Uke** y el otro rodea la espalda, cargándolo sobre ambos hombros para voltearlo en movimiento circular. |
+| **1** | *Uki otoshi* | Proyección flotante | `![Uki Otoshi](assets/uki_otoshi.png)` |
+| **2** | *Seoi nage* | Proyección cargando sobre la espalda | `![Seoi Nage](assets/seoi_nage.png)` |
+| **3** | *Kata guruma* | Rueda sobre los hombros *(Molinete)* | `![Kata Guruma](assets/kata_guruma.png)` |
 
 ---
 
 ### 2. Koshi-waza (Técnicas de Cadera)
 
-| N.º | Técnica | Traducción | Ejecución |
+| N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :--- |
-| **4** | *Uki goshi* | Cadera flotante | **Tori** realiza un giro de cadera de recorrido corto donde abraza la cintura de **Uke** por la espalda, haciéndolo pivotar y flotar sobre el lateral de la cadera. |
-| **5** | *O goshi* | Gran cadera | **Tori** profundiza el giro introduciendo la cadera completamente, abraza firmemente la cintura de **Uke** y proyecta mediante la extensión e impulso de las piernas. |
-| **6** | *Harai goshi* | Cadera barrida | **Tori** combina la rotación e inclinación del tronco con un barrido ascendente de su pierna contra el muslo o pierna de **Uke**. |
+| **4** | *Uki goshi* | Cadera flotante | `![Uki Goshi](assets/uki_goshi.png)` |
+| **5** | *O goshi* | Gran cadera | `![O Goshi](assets/o_goshi.png)` |
+| **6** | *Harai goshi* | Cadera barrida | `![Harai Goshi](assets/harai_goshi.png)` |
 
 ---
 
 ### 3. Ashi-waza (Técnicas de Pie / Pierna)
 
-| N.º | Técnica | Traducción | Ejecución |
+| N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :--- |
-| **7** | *Deashi barai* | Barrido al pie de salida | **Tori** sincroniza el movimiento para barrer el pie de **Uke** justo en el instante preciso en que avanza y está a punto de apoyar su peso. |
-| **8** | *Hiza guruma* | Rueda a la rodilla | **Tori** apoya la planta del pie sobre la rótula de **Uke** sirviendo como punto de apoyo/eje, mientras ejecuta una tracción circular con los brazos para hacerle girar. |
-| **9** | *Sasae tsurikomi ashi* | Pie bloqueado pescando | **Tori** aplica una tracción ascendente con ambos brazos mientras bloquea con la planta del pie el tobillo o la parte inferior de la pierna de **Uke**. |
+| **7** | *Deashi barai* | Barrido al pie de salida | `![Deashi Barai](assets/deashi_barai.png)` |
+| **8** | *Hiza guruma* | Rueda a la rodilla | `![Hiza Guruma](assets/hiza_guruma.png)` |
+| **9** | *Sasae tsurikomi ashi* | Pie bloqueado pescando | `![Sasae Tsurikomi Ashi](assets/sasae_tsurikomi_ashi.png)` |
 
 ---
 
 ### 4. Ma-sutemi-waza (Técnicas de Sacrificio Hacia Atrás)
 
-| N.º | Técnica | Traducción | Ejecución |
+| N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :--- |
-| **10** | *Tomoe nage* | Proyección en círculo | **Tori** coloca la planta del pie en el abdomen de **Uke** y se deja caer de espaldas al tatami, impulsándolo por encima de su cabeza en un arco de circunferencia. |
-| **11** | *Sumi gaeshi* | Inversión a la esquina | **Tori** se deja caer hacia atrás introduciendo el empeine o la pierna por la cara interna del muslo de **Uke**, proyectándolo hacia una de sus esquinas traseras. |
-| **12** | *Ura nage* | Proyección hacia atrás *(Suplex)* | **Tori** se posiciona por detrás o lateral de **Uke**, abraza su cintura y se proyecta hacia atrás arqueando el cuerpo para lanzarlo por encima de su hombro. |
+| **10** | *Tomoe nage* | Proyección en círculo | `![Tomoe Nage](assets/tomoe_nage.png)` |
+| **11** | *Sumi gaeshi* | Inversión a la esquina | `![Sumi Gaeshi](assets/sumi_gaeshi.png)` |
+| **12** | *Ura nage* | Proyección hacia atrás *(Suplex)* | `![Ura Nage](assets/ura_nage.png)` |
 
 ---
 
 ### 5. Yoko-sutemi-waza (Técnicas de Sacrificio Lateral)
 
-| N.º | Técnica | Traducción | Ejecución |
+| N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :--- |
-| **13** | *Yoko otoshi* | Caída lateral | **Tori** se desliza de costado sobre el tatami extendiendo su pierna para bloquear el paso de **Uke**, derribándolo lateralmente mediante la caída de su propio cuerpo. |
-| **14** | *Tani otoshi* | Caída al valle | **Tori** se deja caer de costado por detrás de las piernas de **Uke** (creando el efecto de "valle"), empujando simultáneamente con el tronco y brazos hacia atrás. |
-| **15** | *Soto makikomi* | Envolvente exterior | **Tori** aprisiona el brazo de **Uke** contra su pecho y se lanza hacia el suelo girando sobre su propio eje, envolviendo a **Uke** en la caída. |
+| **13** | *Yoko otoshi* | Caída lateral | `![Yoko Otoshi](assets/yoko_otoshi.png)` |
+| **14** | *Tani otoshi* | Caída al valle | `![Tani Otoshi](assets/tani_otoshi.png)` |
+| **15** | *Soto makikomi* | Envolvente exterior | `![Soto Makikomi](assets/soto_makikomi.png)` |
