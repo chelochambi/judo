@@ -27,6 +27,18 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 
 ---
 
+## 📌 Clasificación General de las Técnicas de Suelo (Katame-waza)
+
+El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se clasifica en tres familias principales:
+
+| Grupo | Nombre Japonés | Traducción Técnica |
+| :--- | :--- | :--- |
+| **1.** | *Osaekomi-waza* | Técnicas de inmovilización / control corporal |
+| **2.** | *Shime-waza* | Técnicas de estrangulación (al cuello / solapa) |
+| **3.** | *Kansetsu-waza* | Técnicas de luxación articular (articulación del codo) |
+
+---
+
 ## 🥋 Parte 1: Las 15 Técnicas del Nage-no-Kata (Proyecciones)
 
 ---
@@ -118,3 +130,18 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 | **13** | *Ude-hishigi-ude-gatame* | Luxación aprisionando el brazo con las manos | <img src="images/ude-hishigi-ude-gatame.png" alt="Ude Hishigi Ude Gatame" width="180"> |
 | **14** | *Ude-hishigi-hiza-gatame* | Luxación de brazo apoyado en la rodilla | <img src="images/ude-hishigi-hiza-gatame.png" alt="Ude Hishigi Hiza Gatame" width="180"> |
 | **15** | *Ude-hishigi-waki-gatame* | Luxación de brazo apoyado en la axila | <img src="images/ude-hishigi-waki-gatame.png" alt="Ude Hishigi Waki Gatame" width="180"> |
+
+
+---
+
+## ⚖️ Criterios de Evaluación y Principios del Examen (Shodan)
+
+El tribunal examinador evaluará el dominio técnico y conceptual basándose en los siguientes parámetros fundamentales:
+
+| Aspecto de Evaluación | Concepto en Judo | Descripción y Puntos Clave a Demostrar |
+| :--- | :--- | :--- |
+| **1. Principio Técnico** | *Riai* | Coherencia y lógica marcial en la aplicación de la técnica, respetando la distancia y la física del desplazamiento. |
+| **2. Desequilibrio** | *Kuzushi* | Romper la estabilidad del oponente en las ocho direcciones tradicionales (*Happo-no-kuzushi*) antes de proyectar. |
+| **3. Posicionamiento** | *Tsukuri* | Entrada fluida y colocación óptima del cuerpo de *Tori* para facilitar la ejecución sin forcejeos innecesarios. |
+| **4. Proyección / Control** | *Kake* | Momento exacto y culminación del lanzamiento (*Nage-waza*) o fijación del control absoluto en suelo (*Katame-waza*). |
+| **5. Etiqueta y Postura** | *Reigi / Rei* | Correcto saludo al tatami y al compañero (*Zarei* / *Ritsurei*), compostura, seriedad y fluidez en la transición entre técnicas. |
