@@ -24,7 +24,7 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **1** | *Uki otoshi* | Proyección flotante | <img src="images/uki-otoshi.png" alt="Uki Otoshi" width="180"> |
+| **1** | *Uki otoshi* | Proyección flotante | <img src="images/uki-otoshi.jpg" alt="Uki Otoshi" width="180"> |
 | **2** | *Seoi nage* | Proyección cargando sobre la espalda | <img src="images/seoi-nage.png" alt="Seoi Nage" width="180"> |
 | **3** | *Kata guruma* | Rueda sobre los hombros *(Molinete)* | <img src="images/kata-guruma.png" alt="Kata Guruma" width="180"> |
 
@@ -35,7 +35,7 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
 | **4** | *Uki goshi* | Cadera flotante | <img src="images/uki-goshi.png" alt="Uki Goshi" width="180"> |
-| **5** | *O goshi* | Gran cadera | <img src="images/o-goshi.png" alt="O Goshi" width="180"> |
+| **5** | *O goshi* | Gran cadera | <img src="images/o-goshi.jpg" alt="O Goshi" width="180"> |
 | **6** | *Harai goshi* | Cadera barrida | <img src="images/harai-goshi.png" alt="Harai Goshi" width="180"> |
 
 ---
@@ -44,9 +44,9 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **7** | *Deashi barai* | Barrido al pie de salida | <img src="images/deashi-barai.png" alt="Deashi Barai" width="180"> |
-| **8** | *Hiza guruma* | Rueda a la rodilla | <img src="images/hiza-guruma.png" alt="Hiza Guruma" width="180"> |
-| **9** | *Sasae tsurikomi ashi* | Pie bloqueado pescando | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae Tsurikomi Ashi" width="180"> |
+| **7** | *Deashi barai* | Barrido al pie de salida | <img src="images/deashi-barai.jpg" alt="Deashi Barai" width="180"> |
+| **8** | *Hiza guruma* | Rueda a la rodilla | <img src="images/hiza-guruma.jpg" alt="Hiza Guruma" width="180"> |
+| **9** | *Sasae tsurikomi ashi* | Pie bloqueado pescando | <img src="images/sasae-tsurikomi-ashi.jpg" alt="Sasae Tsurikomi Ashi" width="180"> |
 
 ---
 
