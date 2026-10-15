@@ -2,6 +2,17 @@
 
 ---
 
+## 📌 Clasificación General de las Katas Oficiales
+
+El programa de examen técnico para el grado de *Shodan* abarca las proyecciones de pie (*Nage-waza*) a través del **Nage-no-Kata** y los controles de suelo (*Katame-waza*) a través del **Katame-no-Kata**:
+
+| Kata | Enfoque Principal | Familias Incluidas | N.º de Técnicas |
+| :--- | :--- | :--- | :---: |
+| **Nage-no-Kata** | Proyecciones de Pie (*Tachi-waza*) | *Te-waza*, *Koshi-waza*, *Ashi-waza*, *Ma-sutemi*, *Yoko-sutemi* | **15** |
+| **Katame-no-Kata** | Controles de Suelo (*Ne-waza*) | *Osaekomi-waza*, *Shime-waza*, *Kansetsu-waza* | **15** |
+
+---
+
 ## 📌 Clasificación General de las Técnicas (Nage-waza)
 
 El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shodan* se clasifica en cinco familias principales:
@@ -16,7 +27,7 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 
 ---
 
-## 🥋 Las 15 Técnicas del Nage-no-Kata
+## 🥋 Parte 1: Las 15 Técnicas del Nage-no-Kata (Proyecciones)
 
 ---
 
@@ -67,3 +78,43 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 | **13** | *Yoko otoshi* | Caída lateral | <img src="images/yoko-otoshi.png" alt="Yoko Otoshi" width="180"> |
 | **14** | *Tani otoshi* | Caída al valle | <img src="images/tani-otoshi.png" alt="Tani Otoshi" width="180"> |
 | **15** | *Soto makikomi* | Envolvente exterior | <img src="images/soto-makikomi.png" alt="Soto Makikomi" width="180"> |
+
+---
+
+## 🤼 Parte 2: Las 15 Técnicas del Katame-no-Kata (Suelo / Ne-waza)
+
+---
+
+### 1. Osaekomi-waza (Técnicas de Inmovilización)
+
+| N.º | Técnica | Traducción | Ilustración / Imagen |
+| :---: | :--- | :--- | :---: |
+| **1** | *Kesa-gatame* | Inmovilización fundamental en bufanda | <img src="images/kesa-gatame.png" alt="Kesa Gatame" width="180"> |
+| **2** | *Kata-gatame* | Inmovilización por el hombro | <img src="images/kata-gatame.png" alt="Kata Gatame" width="180"> |
+| **3** | *Kami-shiho-gatame* | Inmovilización superior de cuatro puntos | <img src="images/kami-shiho-gatame.png" alt="Kami Shiho Gatame" width="180"> |
+| **4** | *Yoko-shiho-gatame* | Inmovilización lateral de cuatro puntos | <img src="images/yoko-shiho-gatame.png" alt="Yoko Shiho Gatame" width="180"> |
+| **5** | *Kuzure-kami-shiho-gatame* | Variante de inmovilización superior | <img src="images/kuzure-kami-shiho-gatame.png" alt="Kuzure Kami Shiho Gatame" width="180"> |
+
+---
+
+### 2. Shime-waza (Técnicas de Estrangulación)
+
+| N.º | Técnica | Traducción | Ilustración / Imagen |
+| :---: | :--- | :--- | :---: |
+| **6** | *Kata-juji-jime* | Estrangulación cruzada mixta / de lado | <img src="images/kata-juji-jime.png" alt="Kata Juji Jime" width="180"> |
+| **7** | *Hadaka-jime* | Estrangulación a cuello desnudo (sin solapa) | <img src="images/hadaka-jime.png" alt="Hadaka Jime" width="180"> |
+| **8** | *Okuri-eri-jime* | Estrangulación deslizando la solapa | <img src="images/okuri-eri-jime.png" alt="Okuri Eri Jime" width="180"> |
+| **9** | *Kata-ha-jime* | Estrangulación atrapando un hombro/brazo | <img src="images/kata-ha-jime.png" alt="Kata Ha Jime" width="180"> |
+| **10** | *Gyaku-juji-jime* | Estrangulación cruzada inversa | <img src="images/gyaku-juji-jime.png" alt="Gyaku Juji Jime" width="180"> |
+
+---
+
+### 3. Kansetsu-waza (Técnicas de Luxación / Articulación)
+
+| N.º | Técnica | Traducción | Ilustración / Imagen |
+| :---: | :--- | :--- | :---: |
+| **11** | *Ude-garami* | Luxación de brazo entrelazado / en llave | <img src="images/ude-garami.png" alt="Ude Garami" width="180"> |
+| **12** | *Ude-hishigi-juji-gatame* | Luxación de brazo en cruz | <img src="images/ude-hishigi-juji-gatame.png" alt="Ude Hishigi Juji Gatame" width="180"> |
+| **13** | *Ude-hishigi-ude-gatame* | Luxación aprisionando el brazo con las manos | <img src="images/ude-hishigi-ude-gatame.png" alt="Ude Hishigi Ude Gatame" width="180"> |
+| **14** | *Ude-hishigi-hiza-gatame* | Luxación de brazo apoyado en la rodilla | <img src="images/ude-hishigi-hiza-gatame.png" alt="Ude Hishigi Hiza Gatame" width="180"> |
+| **15** | *Ude-hishigi-waki-gatame* | Luxación de brazo apoyado en la axila | <img src="images/ude-hishigi-waki-gatame.png" alt="Ude Hishigi Waki Gatame" width="180"> |
