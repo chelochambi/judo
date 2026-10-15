@@ -25,7 +25,7 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :--- |
 | **1** | *Uki otoshi* | Proyección flotante | `![Uki Otoshi](assets/uki_otoshi.png)` |
-| **2** | *Seoi nage* | Proyección cargando sobre la espalda | `![Seoi Nage](assets/seoi_nage.png)` |
+| **2** | *Seoi nage* | Proyección cargando sobre la espalda | `![Seoi Nage](images/seoi-nage.png)` |
 | **3** | *Kata guruma* | Rueda sobre los hombros *(Molinete)* | `![Kata Guruma](assets/kata_guruma.png)` |
 
 ---
