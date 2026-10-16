@@ -19,7 +19,7 @@ El cuarto grupo exige un control avanzado del equilibrio y del timing, ampliando
 | **5** | Koshi-waza | *Utsuri-goshi* | Cambio de cadera | <img src="images/utsuri-goshi.png" alt="Utsuri-goshi" width="180"> |
 | **6** | Ashi-waza | *O-guruma* | Gran rueda | <img src="images/o-guruma.png" alt="O-guruma" width="180"> |
 | **7** | Yoko-sutemi-waza | *Soto-makikomi* | Gran rollo exterior | <img src="images/soto-makikomi.png" alt="Soto-makikomi" width="180"> |
-| **8** | Yoko-sutemi-waza | *Uki-waza* | Técnica flotante lateral | <img src="images/uki-waza.png" alt="Uki-waza" width="180"> |
+| **8** | Te-waza | *Uki-otoshi* | caída flotante | <img src="images/uki-otoshi.png" alt="Uki-otoshi" width="180"> |
 
 ## 🤼 Técnicas de Suelo (Katame-waza / Ne-waza)
 
