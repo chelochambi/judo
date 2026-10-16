@@ -12,14 +12,14 @@ El cuarto grupo exige un control avanzado del equilibrio y del timing, ampliando
 
 | N.º | Grupo | Técnica | Traducción | Ilustración |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | Te-waza | *Sumi-otoshi* | Caída en la esquina | <img src="images/sumi-otoshi.png" alt="Sumi-otoshi" width="180"> |
-| **2** | Ashi-waza | *Harai-tsurikomi-ashi* | Barrido de pie tirando y levantando | <img src="images/harai-tsurikomi-ashi.png" alt="Harai-tsurikomi-ashi" width="180"> |
-| **3** | Ashi-waza | *O-guruma* | Gran rueda | <img src="images/o-guruma.png" alt="O-guruma" width="180"> |
-| **4** | Ashi-waza | *O-soto-guruma* | Gran rueda exterior | <img src="images/o-soto-guruma.png" alt="O-soto-guruma" width="180"> |
-| **5** | Ma-sutemi-waza | *Sumi-gaeshi* | Inversión en la esquina | <img src="images/sumi-gaeshi.png" alt="Sumi-gaeshi" width="180"> |
-| **6** | Ma-sutemi-waza | *Tani-otoshi* | Caída en el valle | <img src="images/tani-otoshi.png" alt="Tani-otoshi" width="180"> |
-| **7** | Yoko-sutemi-waza | *Hane-makikomi* | Envolver en resorte | <img src="images/hane-makikomi.png" alt="Hane-makikomi" width="180"> |
-| **8** | Yoko-sutemi-waza | *Uki-waza* | Proyección flotante lateral | <img src="images/uki-waza.png" alt="Uki-waza" width="180"> |
+| **1** | Ma-sutemi-waza | *Sumi-gaeshi* | Contraataque en rincón | <img src="images/sumi-gaeshi.png" alt="Sumi-gaeshi" width="180"> |
+| **2** | Yoko-sutemi-waza | *Tani-otoshi* | Caída en el valle | <img src="images/tani-otoshi.png" alt="Tani-otoshi" width="180"> |
+| **3** | Yoko-sutemi-waza | *Hane-makikomi* | Proyección enrollándose con salto | <img src="images/hane-makikomi.png" alt="Hane-makikomi" width="180"> |
+| **4** | Te-waza | *Sukui-nage* | Proyección cucharada | <img src="images/sukui-nage.png" alt="Sukui-nage" width="180"> |
+| **5** | Koshi-waza | *Utsuri-goshi* | Cambio de cadera | <img src="images/utsuri-goshi.png" alt="Utsuri-goshi" width="180"> |
+| **6** | Ashi-waza | *O-guruma* | Gran rueda | <img src="images/o-guruma.png" alt="O-guruma" width="180"> |
+| **7** | Yoko-sutemi-waza | *Soto-makikomi* | Gran rollo exterior | <img src="images/soto-makikomi.png" alt="Soto-makikomi" width="180"> |
+| **8** | Yoko-sutemi-waza | *Uki-waza* | Técnica flotante lateral | <img src="images/uki-waza.png" alt="Uki-waza" width="180"> |
 
 ## 🤼 Técnicas de Suelo (Katame-waza / Ne-waza)
 
