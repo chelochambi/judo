@@ -12,14 +12,14 @@ El primer grupo del Gokyo establece las bases mecánicas del Judo a través de 8
 
 | N.º | Grupo | Técnica | Traducción | Ilustración |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | Te-waza | *Uki-otoshi* | Caída flotante | <img src="images/uki-otoshi.png" alt="Uki-otoshi" width=""> |
-| **2** | Te-waza | *Seoi-nage* | Proyección sobre la espalda | <img src="images/seoi-nage.png" alt="Seoi-nage" width="140"> |
-| **3** | Koshi-waza | *Uki-goshi* | Cadera flotante | <img src="images/uki-goshi.png" alt="Uki-goshi" width="140"> |
-| **4** | Koshi-waza | *O-goshi* | Gran cadera | <img src="images/o-goshi.png" alt="O-goshi" width="140"> |
-| **5** | Ashi-waza | *De-ashi-harai* | Barrido al pie que avanza | <img src="images/de-ashi-harai.png" alt="De-ashi-harai" width="140"> |
-| **6** | Ashi-waza | *Hiza-guruma* | Rueda a la rodilla | <img src="images/hiza-guruma.png" alt="Hiza-guruma" width="140"> |
-| **7** | Ashi-waza | *Sasae-tsurikomi-ashi* | Bloqueo al tobillo tirando y levantando | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="140"> |
-| **8** | Ashi-waza | *O-soto-gari* | Gran sega exterior | <img src="images/o-soto-gari.png" alt="O-soto-gari" width="140"> |
+| **1** | Ashi-waza | *De-ashi-barai* | Barrido al pie que avanza[cite: 1, 2] | <img src="images/de-ashi-barai.png" alt="De-ashi-barai" width="140"> |
+| **2** | Ashi-waza | *Hiza-guruma* | Rueda a la rodilla[cite: 1, 2] | <img src="images/hiza-guruma.png" alt="Hiza-guruma" width="140"> |
+| **3** | Ashi-waza | *Sasae-tsurikomi-ashi* | Bloqueo al tobillo tirando y levantando[cite: 1, 2] | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="140"> |
+| **4** | Koshi-waza | *Uki-goshi* | Cadera flotante[cite: 1, 2] | <img src="images/uki-goshi.png" alt="Uki-goshi" width="140"> |
+| **5** | Ashi-waza | *Osoto-gari* | Gran sega exterior[cite: 1, 2] | <img src="images/osoto-gari.png" alt="Osoto-gari" width="140"> |
+| **6** | Koshi-waza | *O-goshi* | Gran cadera[cite: 1, 2] | <img src="images/o-goshi.png" alt="O-goshi" width="140"> |
+| **7** | Ashi-waza | *Ouchi-gari* | Gran sega interior[cite: 1, 2] | <img src="images/ouchi-gari.png" alt="Ouchi-gari" width="140"> |
+| **8** | Te-waza | *Ippon-seoi-nage* | Proyección de hombro a través de un punto[cite: 1, 2] | <img src="images/ippon-seoi-nage.png" alt="Ippon-seoi-nage" width="140"> |
 
 ## 🤼 Técnicas de Suelo (Katame-waza / Ne-waza)
 
