@@ -12,14 +12,14 @@ El primer grado establece las bases del Judo de pie (*Tachi-waza*) a través de 
 
 | N.º | Grupo | Técnica | Traducción | Ilustración |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | Te-waza | *Uki-otoshi* | Caída flotante | <img src="images/uki-otoshi.png" alt="Uki-otoshi" width="180"> |
-| **2** | Te-waza | *Seoi-nage* | Proyección sobre la espalda | <img src="images/seoi-nage.png" alt="Seoi-nage" width="180"> |
-| **3** | Koshi-waza | *Uki-goshi* | Cadera flotante | <img src="images/uki-goshi.png" alt="Uki-goshi" width="180"> |
-| **4** | Koshi-waza | *O-goshi* | Gran cadera | <img src="images/o-goshi.png" alt="O-goshi" width="180"> |
-| **5** | Ashi-waza | *De-ashi-harai* | Barrido al pie que avanza | <img src="images/de-ashi-harai.png" alt="De-ashi-harai" width="180"> |
-| **6** | Ashi-waza | *Hiza-guruma* | Rueda a la rodilla | <img src="images/hiza-guruma.png" alt="Hiza-guruma" width="180"> |
-| **7** | Ashi-waza | *Sasae-tsurikomi-ashi* | Bloqueo al tobillo tirando y levantando | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="180"> |
-| **8** | Ashi-waza | *O-soto-gari* | Gran sega exterior | <img src="images/o-soto-gari.png" alt="O-soto-gari" width="180"> |
+| **1** | Ashi-waza | *Osoto-guruma* | Gran rueda exterior | <img src="images/osoto-guruma.png" alt="Osoto-guruma" width="180"> |
+| **2** | Te-waza | *Uki-otoshi* | Caída flotante | <img src="images/uki-otoshi.png" alt="Uki-otoshi" width="180"> |
+| **3** | Yoko-sutemi-waza | *Yoko-wakare* | Separación lateral | <img src="images/yoko-wakare.png" alt="Yoko-wakare" width="180"> |
+| **4** | Yoko-sutemi-waza | *Yoko-guruma* | Rueda lateral | <img src="images/yoko-guruma.png" alt="Yoko-guruma" width="180"> |
+| **5** | Koshi-waza | *Ushiro-goshi* | Cadera hacia atrás | <img src="images/ushiro-goshi.png" alt="Ushiro-goshi" width="180"> |
+| **6** | Ma-sutemi-waza | *Ura-nage* | Proyección hacia atrás | <img src="images/ura-nage.png" alt="Ura-nage" width="180"> |
+| **7** | Te-waza | *Sumi-otoshi* | Caída en la esquina | <img src="images/sumi-otoshi.png" alt="Sumi-otoshi" width="180"> |
+| **8** | Yoko-sutemi-waza | *Yoko-gake* | Gancho lateral | <img src="images/yoko-gake.png" alt="Yoko-gake" width="180"> |
 
 ---
 
