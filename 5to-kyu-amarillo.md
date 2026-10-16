@@ -12,7 +12,7 @@ El primer grupo del Gokyo establece las bases mecánicas del Judo a través de 8
 
 | N.º | Grupo | Técnica | Traducción | Ilustración |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | Ashi-waza | *De-ashi-barai* | Barrido al pie que avanza[cite: 1, 2] | <img src="images/de-ashi-barai.png" alt="De-ashi-barai" width="140"> |
+| **1** | Ashi-waza | *De-ashi-barai (harai)* | Barrido al pie que avanza[cite: 1, 2] | <img src="images/de-ashi-harai.png" alt="De-ashi-barai" width="140"> |
 | **2** | Ashi-waza | *Hiza-guruma* | Rueda a la rodilla[cite: 1, 2] | <img src="images/hiza-guruma.png" alt="Hiza-guruma" width="140"> |
 | **3** | Ashi-waza | *Sasae-tsurikomi-ashi* | Bloqueo al tobillo tirando y levantando[cite: 1, 2] | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="140"> |
 | **4** | Koshi-waza | *Uki-goshi* | Cadera flotante[cite: 1, 2] | <img src="images/uki-goshi.png" alt="Uki-goshi" width="140"> |
