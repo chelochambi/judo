@@ -23,12 +23,10 @@ El primer grupo del Gokyo establece las bases mecánicas del Judo a través de 8
 
 ## 🤼 Técnicas de Suelo (Katame-waza / Ne-waza)
 
-## 🤼 Técnicas de Suelo (Katame-waza / Ne-waza)
-
 | N.º | Grupo | Técnica | Traducción | Ilustración |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | Osaekomi-waza | *Hon-kesa-gatame* | Inmovilización fundamental en bufanda | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='75' viewBox='0 0 140 75'><rect width='100%' height='100%' fill='%232a2d32'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='%238b949e' font-family='sans-serif' font-size='12'>Sin imagen</text></svg>" alt="Hon-kesa-gatame" width="140"> |
-| **2** | Osaekomi-waza | *Kuzure-kesa-gatame* | Variante de inmovilización en bufanda | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='75' viewBox='0 0 140 75'><rect width='100%' height='100%' fill='%232a2d32'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='%238b949e' font-family='sans-serif' font-size='12'>Sin imagen</text></svg>" alt="Kuzure-kesa-gatame" width="140"> |
-| **3** | Osaekomi-waza | *Yoko-shiho-gatame* | Inmovilización lateral de cuatro puntos | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='75' viewBox='0 0 140 75'><rect width='100%' height='100%' fill='%232a2d32'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='%238b949e' font-family='sans-serif' font-size='12'>Sin imagen</text></svg>" alt="Yoko-shiho-gatame" width="140"> |
-| **4** | Osaekomi-waza | *Kami-shiho-gatame* | Inmovilización superior de cuatro puntos | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='75' viewBox='0 0 140 75'><rect width='100%' height='100%' fill='%232a2d32'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='%238b949e' font-family='sans-serif' font-size='12'>Sin imagen</text></svg>" alt="Kami-shiho-gatame" width="140"> |
-| **5** | Osaekomi-waza | *Tate-shiho-gatame* | Inmovilización longitudinal a caballo | <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='75' viewBox='0 0 140 75'><rect width='100%' height='100%' fill='%232a2d32'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' fill='%238b949e' font-family='sans-serif' font-size='12'>Sin imagen</text></svg>" alt="Tate-shiho-gatame" width="140"> |
+| **1** | Osaekomi-waza | *Hon-kesa-gatame* | Inmovilización fundamental en bufanda | <img src="images/hon-kesa-gatame.png" width="140" onerror="this.src='images/seoi-nage.png'"> |
+| **2** | Osaekomi-waza | *Kuzure-kesa-gatame* | Variante de inmovilización en bufanda | <img src="images/kuzure-kesa-gatame.png" alt="Kuzure-kesa-gatame" width="140"> |
+| **3** | Osaekomi-waza | *Yoko-shiho-gatame* | Inmovilización lateral de cuatro puntos | <img src="images/yoko-shiho-gatame.png" alt="Yoko-shiho-gatame" width="140"> |
+| **4** | Osaekomi-waza | *Kami-shiho-gatame* | Inmovilización superior de cuatro puntos | <img src="images/kami-shiho-gatame.png" alt="Kami-shiho-gatame" width="140"> |
+| **5** | Osaekomi-waza | *Tate-shiho-gatame* | Inmovilización longitudinal a caballo | <img src="images/tate-shiho-gatame.png" alt="Tate-shiho-gatame" width="140"> |
