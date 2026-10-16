@@ -25,8 +25,8 @@ El tercer grupo incorpora técnicas complejas de nivel intermedio, introduciendo
 
 | N.º | Grupo | Técnica | Traducción | Ilustración |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | Shime-waza | *Hadaka-jime* | Estrangulación a cuello desnudo | <img src="images/hadaka-jime.png" alt="Hadaka-jime" width="180"> |
-| **2** | Shime-waza | *Okuri-eri-jime* | Estrangulación deslizando la solapa | <img src="images/okuri-eri-jime.png" alt="Okuri-eri-jime" width="180"> |
-| **3** | Shime-waza | *Kata-ha-jime* | Estrangulación atrapando un ala/hombro | <img src="images/kata-ha-jime.png" alt="Kata-ha-jime" width="180"> |
-| **4** | Kansetsu-waza | *Ude-hishigi-juji-gatame* | Luxación de brazo en cruz | <img src="images/ude-hishigi-juji-gatame.png" alt="Ude-hishigi-juji-gatame" width="180"> |
-| **5** | Kansetsu-waza | *Ude-garami* | Luxación de brazo entrelazado | <img src="images/ude-garami.png" alt="Ude-garami" width="180"> |
+| **1** | Shime-waza | *Hadaka-jime* | Estrangulación a cuello desnudo | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **2** | Shime-waza | *Okuri-eri-jime* | Estrangulación deslizando la solapa | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **3** | Shime-waza | *Kata-ha-jime* | Estrangulación atrapando un ala/hombro | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **4** | Kansetsu-waza | *Ude-hishigi-juji-gatame* | Luxación de brazo en cruz | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **5** | Kansetsu-waza | *Ude-garami* | Luxación de brazo entrelazado | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |

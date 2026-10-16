@@ -25,8 +25,8 @@ El cuarto grupo exige un control avanzado del equilibrio y del timing, ampliando
 
 | N.º | Grupo | Técnica | Traducción | Ilustración |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | Shime-waza | *Ryote-jime* | Estrangulación con dos manos | <img src="images/ryote-jime.png" alt="Ryote-jime" width="180"> |
-| **2** | Shime-waza | *Sode-guruma-jime* | Estrangulación envolviendo con la manga | <img src="images/sode-guruma-jime.png" alt="Sode-guruma-jime" width="180"> |
-| **3** | Kansetsu-waza | *Ude-hishigi-ude-gatame* | Luxación aprisionando el brazo con las manos | <img src="images/ude-hishigi-ude-gatame.png" alt="Ude-hishigi-ude-gatame" width="180"> |
-| **4** | Kansetsu-waza | *Ude-hishigi-waki-gatame* | Luxación de brazo apoyado en la axila | <img src="images/ude-hishigi-waki-gatame.png" alt="Ude-hishigi-waki-gatame" width="180"> |
-| **5** | Kansetsu-waza | *Ude-hishigi-hiza-gatame* | Luxación de brazo apoyado en la rodilla | <img src="images/ude-hishigi-hiza-gatame.png" alt="Ude-hishigi-hiza-gatame" width="180"> |
+| **1** | Shime-waza | *Ryote-jime* | Estrangulación con dos manos | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **2** | Shime-waza | *Sode-guruma-jime* | Estrangulación envolviendo con la manga | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **3** | Kansetsu-waza | *Ude-hishigi-ude-gatame* | Luxación aprisionando el brazo con las manos | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **4** | Kansetsu-waza | *Ude-hishigi-waki-gatame* | Luxación de brazo apoyado en la axila | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **5** | Kansetsu-waza | *Ude-hishigi-hiza-gatame* | Luxación de brazo apoyado en la rodilla | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |

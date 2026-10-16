@@ -27,8 +27,8 @@ El primer grado establece las bases del Judo de pie (*Tachi-waza*) a través de 
 
 | N.º | Grupo | Técnica | Traducción | Ilustración |
 | :---: | :--- | :--- | :--- | :---: |
-| **1** | Osaekomi-waza | *Hon-kesa-gatame* | Inmovilización fundamental en bufanda | <img src="images/hon-kesa-gatame.png" alt="Hon-kesa-gatame" width="180"> |
-| **2** | Osaekomi-waza | *Kuzure-kesa-gatame* | Variante de inmovilización en bufanda | <img src="images/kuzure-kesa-gatame.png" alt="Kuzure-kesa-gatame" width="180"> |
-| **3** | Osaekomi-waza | *Yoko-shiho-gatame* | Inmovilización lateral de cuatro puntos | <img src="images/yoko-shiho-gatame.png" alt="Yoko-shiho-gatame" width="180"> |
-| **4** | Osaekomi-waza | *Kami-shiho-gatame* | Inmovilización superior de cuatro puntos | <img src="images/kami-shiho-gatame.png" alt="Kami-shiho-gatame" width="180"> |
-| **5** | Osaekomi-waza | *Tate-shiho-gatame* | Inmovilización longitudinal a caballo | <img src="images/tate-shiho-gatame.png" alt="Tate-shiho-gatame" width="180"> |
+| **1** | Osaekomi-waza | *Hon-kesa-gatame* | Inmovilización fundamental en bufanda | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **2** | Osaekomi-waza | *Kuzure-kesa-gatame* | Variante de inmovilización en bufanda | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **3** | Osaekomi-waza | *Yoko-shiho-gatame* | Inmovilización lateral de cuatro puntos | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **4** | Osaekomi-waza | *Kami-shiho-gatame* | Inmovilización superior de cuatro puntos | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
+| **5** | Osaekomi-waza | *Tate-shiho-gatame* | Inmovilización longitudinal a caballo | <img src="https://placehold.co/140x80/2a2d32/8b949e?text=Pendiente" alt="Hon-kesa-gatame" width="140"> |
