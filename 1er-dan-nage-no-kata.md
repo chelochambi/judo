@@ -125,11 +125,11 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **6** | *Kata-juji-jime* | Estrangulación cruzada mixta / de lado | <img src="images/kata-juji-jime.png" alt="Kata-juji-jime" width="180"> |
-| **7** | *Hadaka-jime* | Estrangulación a cuello desnudo (sin solapa) | <img src="images/hadaka-jime.png" alt="Hadaka-jime" width="180"> |
-| **8** | *Okuri-eri-jime* | Estrangulación deslizando la solapa | <img src="images/okuri-eri-jime.png" alt="Okuri-eri-jime" width="180"> |
-| **9** | *Kata-ha-jime* | Estrangulación atrapando un hombro/brazo | <img src="images/kata-ha-jime.png" alt="Kata-ha-jime" width="180"> |
-| **10** | *Gyaku-juji-jime* | Estrangulación cruzada inversa | <img src="images/gyaku-juji-jime.png" alt="Gyaku-juji-jime" width="180"> |
+| **6** | *Kata-juji-jime* | Estrangulación en cruz media / semi-cruzada | <img src="images/kata-juji-jime.png" alt="Kata-juji-jime" width="180"> |
+| **7** | *Hadaka-jime* | Estrangulación al desnudo (sin agarre de solapa) | <img src="images/hadaka-jime.png" alt="Hadaka-jime" width="180"> |
+| **8** | *Okuri-eri-jime* | Estrangulación con la solapa por detrás / de envío | <img src="images/okuri-eri-jime.png" alt="Okuri-eri-jime" width="180"> |
+| **9** | *Kata-ha-jime* | Estrangulación con control de un ala / hombro | <img src="images/kata-ha-jime.png" alt="Kata-ha-jime" width="180"> |
+| **10** | *Gyaku-juji-jime* | Estrangulación en cruz invertida | <img src="images/gyaku-juji-jime.png" alt="Gyaku-juji-jime" width="180"> |
 
 ---
 
@@ -137,22 +137,8 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **11** | *Ude-garami* | Luxación de brazo entrelazado / en llave | <img src="images/ude-garami.png" alt="Ude-garami" width="180"> |
+| **11** | *Ude-garami* | Enredo / agarre de brazo | <img src="images/ude-garami.png" alt="Ude-garami" width="180"> |
 | **12** | *Ude-hishigi-juji-gatame* | Luxación de brazo en cruz | <img src="images/ude-hishigi-juji-gatame.png" alt="Ude-hishigi-juji-gatame" width="180"> |
-| **13** | *Ude-hishigi-ude-gatame* | Luxación aprisionando el brazo con las manos | <img src="images/ude-hishigi-ude-gatame.png" alt="Ude-hishigi-ude-gatame" width="180"> |
-| **14** | *Ude-hishigi-hiza-gatame* | Luxación de brazo apoyado en la rodilla | <img src="images/ude-hishigi-hiza-gatame.png" alt="Ude-hishigi-hiza-gatame" width="180"> |
-| **15** | *Ude-hishigi-waki-gatame* | Luxación de brazo apoyado en la axila | <img src="images/ude-hishigi-waki-gatame.png" alt="Ude-hishigi-waki-gatame" width="180"> |
-
----
-
-## ⚖️ Criterios de Evaluación y Principios del Examen (Shodan)
-
-El tribunal examinador evaluará el dominio técnico y conceptual basándose en los siguientes parámetros fundamentales:
-
-| Aspecto de Evaluación | Concepto en Judo | Descripción y Puntos Clave a Demostrar |
-| :--- | :--- | :--- |
-| **1. Principio Técnico** | *Riai* | Coherencia y lógica marcial en la aplicación de la técnica, respetando la distancia y la física del desplazamiento. |
-| **2. Desequilibrio** | *Kuzushi* | Romper la estabilidad del oponente en las ocho direcciones tradicionales (*Happo-no-kuzushi*) antes de proyectar. |
-| **3. Posicionamiento** | *Tsukuri* | Entrada fluida y colocación óptima del cuerpo de *Tori* para facilitar la ejecución sin forcejeos innecesarios. |
-| **4. Proyección / Control** | *Kake* | Momento exacto y culminación del lanzamiento (*Nage-waza*) o fijación del control absoluto en suelo (*Katame-waza*). |
-| **5. Etiqueta y Postura** | *Reigi / Rei* | Correcto saludo al tatami y al compañero (*Zarei* / *Ritsurei*), compostura, seriedad y fluidez en la transición entre técnicas. |
+| **13** | *Ude-hishigi-ude-gatame* | Luxación de brazo directa | <img src="images/ude-hishigi-ude-gatame.png" alt="Ude-hishigi-ude-gatame" width="180"> |
+| **14** | *Ude-hishigi-hiza-gatame* | Luxación de brazo con la rodilla | <img src="images/ude-hishigi-hiza-gatame.png" alt="Ude-hishigi-hiza-gatame" width="180"> |
+| **15** | *Ude-hishigi-waki-gatame* | Luxación de brazo bajo la axila | <img src="images/ude-hishigi-waki-gatame.png" alt="Ude-hishigi-waki-gatame" width="180"> |
