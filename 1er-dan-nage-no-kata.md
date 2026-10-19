@@ -113,11 +113,11 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **1** | *Kesa-gatame* | Inmovilización fundamental en bufanda | <img src="images/kesa-gatame.png" alt="Kesa-gatame" width="180"> |
-| **2** | *Kata-gatame* | Inmovilización por el hombro | <img src="images/kata-gatame.png" alt="Kata-gatame" width="180"> |
-| **3** | *Kami-shiho-gatame* | Inmovilización superior de cuatro puntos | <img src="images/kami-shiho-gatame.png" alt="Kami-shiho-gatame" width="180"> |
-| **4** | *Yoko-shiho-gatame* | Inmovilización lateral de cuatro puntos | <img src="images/yoko-shiho-gatame.png" alt="Yoko-shiho-gatame" width="180"> |
-| **5** | *Kuzure-kami-shiho-gatame* | Variante de inmovilización superior | <img src="images/kuzure-kami-shiho-gatame.png" alt="Kuzure-kami-shiho-gatame" width="180"> |
+| **1** | *Kesa-gatame* | Control en bufanda / diagonal | <img src="images/kesa-gatame.png" alt="Kesa-gatame" width="180"> |
+| **2** | *Kata-gatame* | Control de hombro / brazo | <img src="images/kata-gatame.png" alt="Kata-gatame" width="180"> |
+| **3** | *Kami-shiho-gatame* | Control superior de cuatro puntos | <img src="images/kami-shiho-gatame.png" alt="Kami-shiho-gatame" width="180"> |
+| **4** | *Yoko-shiho-gatame* | Control lateral de cuatro puntos | <img src="images/yoko-shiho-gatame.png" alt="Yoko-shiho-gatame" width="180"> |
+| **5** | *Kuzure-kami-shiho-gatame* | Variante de control superior de cuatro puntos | <img src="images/kuzure-kami-shiho-gatame.png" alt="Kuzure-kami-shiho-gatame" width="180"> |
 
 ---
 
