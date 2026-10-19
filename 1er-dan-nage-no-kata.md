@@ -79,9 +79,9 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **7** | *De-ashi-harai (barai)* | Barrido al pie de salida | <img src="images/deashi-harai.png" alt="De-ashi-harai" width="180"> |
-| **8** | *Hiza-guruma* | Rueda a la rodilla | <img src="images/hiza-guruma.png" alt="Hiza-guruma" width="180"> |
-| **9** | *Sasae-tsurikomi-ashi* | Pie bloqueado pescando | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="180"> |
+| **7** | *Okuri-ashi-harai* | Barrido de pies en desplazamiento (al envío) | <img src="images/okuri-ashi-harai.png" alt="Okuri-ashi-harai" width="180"> |
+| **8** | *Sasae-tsurikomi-ashi* | Bloqueo del pie tirando y levantando | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="180"> |
+| **9** | *Uchi-mata* | Muslo interior | <img src="images/uchi-mata.png" alt="Uchi-mata" width="180"> |
 
 ---
 
