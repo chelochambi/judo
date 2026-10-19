@@ -89,9 +89,9 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **10** | *Tomoe-nage* | Proyección en círculo | <img src="images/tomoe-nage.png" alt="Tomoe-nage" width="180"> |
-| **11** | *Sumi-gaeshi* | Inversión a la esquina | <img src="images/sumi-gaeshi.png" alt="Sumi-gaeshi" width="180"> |
-| **12** | *Ura-nage* | Proyección hacia atrás *(Suplex)* | <img src="images/ura-nage.png" alt="Ura-nage" width="180"> |
+| **10** | *Tomoe-nage* | Proyección en círculo / remolino | <img src="images/tomoe-nage.png" alt="Tomoe-nage" width="180"> |
+| **11** | *Ura-nage* | Proyección hacia atrás / de espaldas | <img src="images/ura-nage.png" alt="Ura-nage" width="180"> |
+| **12** | *Sumi-gaeshi* | Inversión al rincón / esquina | <img src="images/sumi-gaeshi.png" alt="Sumi-gaeshi" width="180"> |
 
 ---
 
@@ -99,9 +99,9 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **13** | *Yoko-otoshi* | Caída lateral | <img src="images/yoko-otoshi.png" alt="Yoko-otoshi" width="180"> |
-| **14** | *Tani-otoshi* | Caída al valle | <img src="images/tani-otoshi.png" alt="Tani-otoshi" width="180"> |
-| **15** | *Soto-makikomi* | Envolvente exterior | <img src="images/soto-makikomi.png" alt="Soto-makikomi" width="180"> |
+| **13** | *Yoko-gake* | Enganche lateral | <img src="images/yoko-gake.png" alt="Yoko-gake" width="180"> |
+| **14** | *Yoko-guruma* | Rueda lateral | <img src="images/yoko-guruma.png" alt="Yoko-guruma" width="180"> |
+| **15** | *Uki-waza* | Técnica flotante | <img src="images/uki-waza.png" alt="Uki-waza" width="180"> |
 
 ---
 
