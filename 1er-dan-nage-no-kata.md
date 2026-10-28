@@ -59,9 +59,9 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **1** | *Uki-otoshi* | Proyección flotante | <img src="images/uki-otoshi.png" alt="Uki-otoshi" width="180" title="Mecánica: Tori retrocede rápido apoyando una rodilla en el tatami mientras tira fuertemente hacia abajo en trayectoria diagonal."> |
-| **2** | *Seoi-nage* | Proyección cargando sobre la espalda | <img src="images/seoi-nage.png" alt="Seoi-nage" width="180" title="Mecánica: Entrada fluida por debajo del centro de gravedad, girando la cadera y pasando el brazo por debajo de la axila de Uke."> |
-| **3** | *Kata-guruma* | Rueda sobre los hombros *(Molinete)* | <img src="images/kata-guruma.png" alt="Kata-guruma" width="180" title="Mecánica: Flexión profunda de piernas, paso de la mano por entre las piernas de Uke y proyección giratoria sobre los hombros."> |
+| **1** | *Uki-otoshi* | Proyección flotante<br><details><summary>Mecánica</summary>Tori retrocede rápido apoyando una rodilla en el tatami mientras tira fuertemente hacia abajo en trayectoria diagonal.</details> | <img src="images/uki-otoshi.png" alt="Uki-otoshi" width="180"> |
+| **2** | *Seoi-nage* | Proyección cargando sobre la espalda<br><details><summary>Mecánica</summary>Entrada fluida por debajo del centro de gravedad, girando la cadera y pasando el brazo por debajo de la axila de Uke.</details> | <img src="images/seoi-nage.png" alt="Seoi-nage" width="180"> |
+| **3** | *Kata-guruma* | Rueda sobre los hombros *(Molinete)*<br><details><summary>Mecánica</summary>Flexión profunda de piernas, paso de la mano por entre las piernas de Uke y proyección giratoria sobre los hombros.</details> | <img src="images/kata-guruma.png" alt="Kata-guruma" width="180"> |
 
 ---
 
@@ -69,9 +69,9 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **4** | *Uki-goshi* | Cadera flotante | <img src="images/uki-goshi.png" alt="Uki-goshi" width="180" title="Mecánica: Proyección rápida sin cargar por completo; el brazo envuelve la cintura interceptando el ataque."> |
-| **5** | *Harai-goshi* | Cadera barrida | <img src="images/harai-goshi.png" alt="Harai-goshi" width="180" title="Mecánica: Carga a Uke sobre la cadera y barre su pierna con un fuerte impulso de la pierna propia extendida."> |
-| **6** | *Tsurikomi-goshi* | Cadera tirando y levantando | <img src="images/tsurikomi-goshi.png" alt="Tsurikomi-goshi" width="180" title="Mecánica: Levantamiento acentuado tirando de la solapa hacia arriba y adelante con flexión profunda de rodillas."> |
+| **4** | *Uki-goshi* | Cadera flotante<br><details><summary>Mecánica</summary>Proyección rápida sin cargar por completo; el brazo envuelve la cintura interceptando el ataque.</details> | <img src="images/uki-goshi.png" alt="Uki-goshi" width="180"> |
+| **5** | *Harai-goshi* | Cadera barrida<br><details><summary>Mecánica</summary>Carga a Uke sobre la cadera y barre su pierna con un fuerte impulso de la pierna propia extendida.</details> | <img src="images/harai-goshi.png" alt="Harai-goshi" width="180"> |
+| **6** | *Tsurikomi-goshi* | Cadera tirando y levantando<br><details><summary>Mecánica</summary>Levantamiento acentuado tirando de la solapa hacia arriba y adelante con flexión profunda de rodillas.</details> | <img src="images/tsurikomi-goshi.png" alt="Tsurikomi-goshi" width="180"> |
 
 ---
 
@@ -79,9 +79,9 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **7** | *Okuri-ashi-harai* | Barrido de pies en desplazamiento (al envío) | <img src="images/okuri-ashi-harai.png" alt="Okuri-ashi-harai" width="180" title="Mecánica: Barrida lateral aplicada cuando Uke junta ambos pies durante el desplazamiento lateral."> |
-| **8** | *Sasae-tsurikomi-ashi* | Bloqueo del pie tirando y levantando | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="180" title="Mecánica: Bloqueo de la pierna de apoyo de Uke a la altura del tobillo mientras se efectúa la rotación con las manos."> |
-| **9** | *Uchi-mata* | Muslo interior | <img src="images/uchi-mata.png" alt="Uchi-mata" width="180" title="Mecánica: Entrada en el eje central atacando e impulsando por la cara interna del muslo de Uke."> |
+| **7** | *Okuri-ashi-harai* | Barrido de pies en desplazamiento (al envío)<br><details><summary>Mecánica</summary>Barrida lateral aplicada cuando Uke junta ambos pies durante el desplazamiento lateral.</details> | <img src="images/okuri-ashi-harai.png" alt="Okuri-ashi-harai" width="180"> |
+| **8** | *Sasae-tsurikomi-ashi* | Bloqueo del pie tirando y levantando<br><details><summary>Mecánica</summary>Bloqueo de la pierna de apoyo de Uke a la altura del tobillo mientras se efectúa la rotación con las manos.</details> | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="180"> |
+| **9** | *Uchi-mata* | Muslo interior<br><details><summary>Mecánica</summary>Entrada en el eje central atacando e impulsando por la cara interna del muslo de Uke.</details> | <img src="images/uchi-mata.png" alt="Uchi-mata" width="180"> |
 
 ---
 
@@ -89,9 +89,9 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **10** | *Tomoe-nage* | Proyección en círculo / remolino | <img src="images/tomoe-nage.png" alt="Tomoe-nage" width="180" title="Mecánica: Caída hacia atrás colocando la planta del pie firmemente en el abdomen o ingle de Uke para lanzarlo en arco."> |
-| **11** | *Ura-nage* | Proyección hacia atrás / de espaldas | <img src="images/ura-nage.png" alt="Ura-nage" width="180" title="Mecánica: Contraataque donde Tori abraza la cintura de Uke por la espalda y se deja caer arqueando el cuerpo hacia atrás."> |
-| **12** | *Sumi-gaeshi* | Inversión al rincón / esquina | <img src="images/sumi-gaeshi.png" alt="Sumi-gaeshi" width="180" title="Mecánica: Caída en diagonal colocando el empeine o la pantorrilla en la corva de Uke para invertirlo hacia la esquina."> |
+| **10** | *Tomoe-nage* | Proyección en círculo / remolino<br><details><summary>Mecánica</summary>Caída hacia atrás colocando la planta del pie firmemente en el abdomen o ingle de Uke para lanzarlo en arco.</details> | <img src="images/tomoe-nage.png" alt="Tomoe-nage" width="180"> |
+| **11** | *Ura-nage* | Proyección hacia atrás / de espaldas<br><details><summary>Mecánica</summary>Contraataque donde Tori abraza la cintura de Uke por la espalda y se deja caer arqueando el cuerpo hacia atrás.</details> | <img src="images/ura-nage.png" alt="Ura-nage" width="180"> |
+| **12** | *Sumi-gaeshi* | Inversión al rincón / esquina<br><details><summary>Mecánica</summary>Caída en diagonal colocando el empeine o la pantorrilla en la corva de Uke para invertirlo hacia la esquina.</details> | <img src="images/sumi-gaeshi.png" alt="Sumi-gaeshi" width="180"> |
 
 ---
 
@@ -99,9 +99,9 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
-| **13** | *Yoko-gake* | Enganche lateral | <img src="images/yoko-gake.png" alt="Yoko-gake" width="180" title="Mecánica: Caída hacia el costado lateral mientras se extiende la pierna para enganchar y derribar el tobillo de Uke."> |
-| **14** | *Yoko-guruma* | Rueda lateral | <img src="images/yoko-guruma.png" alt="Yoko-guruma" width="180" title="Mecánica: Entrada donde Tori introduce la pierna entre las de Uke y gira lateralmente en forma de rueda sobre el tatami."> |
-| **15** | *Uki-waza* | Técnica flotante | <img src="images/uki-waza.png" alt="Uki-waza" width="180" title="Mecánica: Caída sobre el costado en diagonal arrastrando y guiando a Uke hacia la esquina mientras avanza."> |
+| **13** | *Yoko-gake* | Enganche lateral<br><details><summary>Mecánica</summary>Caída hacia el costado lateral mientras se extiende la pierna para enganchar y derribar el tobillo de Uke.</details> | <img src="images/yoko-gake.png" alt="Yoko-gake" width="180"> |
+| **14** | *Yoko-guruma* | Rueda lateral<br><details><summary>Mecánica</summary>Entrada donde Tori introduce la pierna entre las de Uke y gira lateralmente en forma de rueda sobre el tatami.</details> | <img src="images/yoko-guruma.png" alt="Yoko-guruma" width="180"> |
+| **15** | *Uki-waza* | Técnica flotante<br><details><summary>Mecánica</summary>Caída sobre el costado en diagonal arrastrando y guiando a Uke hacia la esquina mientras avanza.</details> | <img src="images/uki-waza.png" alt="Uki-waza" width="180"> |
 
 ---
 
