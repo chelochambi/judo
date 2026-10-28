@@ -92,22 +92,30 @@ La ejecución de cada técnica requiere la sincronización impecable de tres eta
 
 ---
 
-## 📖 Glosario Técnico: Desglose de Términos del Nage-no-Kata
+## 📖 Glosario Técnico: Raíces y Palabras Individuales
 
-| N.º | Técnica | Desglose y Traducción de Términos |
-| :---: | :--- | :--- |
-| **1** | *Uki-otoshi* | **Uki** (浮) = Flotante / boyante; **Otoshi** (落) = Caída / derribo vertical hacia abajo. |
-| **2** | *Seoi-nage* | **Seoi** (背負) = Cargar a la espalda / hombro; **Nage** (投) = Proyección. |
-| **3** | *Kata-guruma* | **Kata** (肩) = Hombro; **Guruma** (車) = Rueda / molinete. |
-| **4** | *Uki-goshi* | **Uki** (浮) = Flotante; **Koshi** (腰) = Cadera. |
-| **5** | *Harai-goshi* | **Harai** (払い) = Barrer / desbrozar; **Koshi** (腰) = Cadera. |
-| **6** | *Tsurikomi-goshi* | **Tsuri** (吊) = Tirar hacia arriba; **Komi** (込み) = Incluir / meter; **Koshi** (腰) = Cadera. |
-| **7** | *Okuri-ashi-harai* | **Okuri** (送り) = Enviar / acompañar; **Ashi** (足) = Pie / pierna; **Harai** (払い) = Barrido. |
-| **8** | *Sasae-tsurikomi-ashi* | **Sasae** (支え) = Sostener / bloquear; **Tsuri** (吊) = Tirar hacia arriba; **Komi** (込み) = Meter; **Ashi** (足) = Pie / pierna. |
-| **9** | *Uchi-mata* | **Uchi** (内) = Interior / adentro; **Mata** (股) = Muslo / entrepierna. |
-| **10** | *Tomoe-nage* | **Tomoe** (巴) = Círculo / remolino / coma heráldica japonesa; **Nage** (投) = Proyección. |
-| **11** | *Ura-nage* | **Ura** (裏) = Reverso / espalda / posterior; **Nage** (投) = Proyección. |
-| **12** | *Sumi-gaeshi* | **Sumi** (隅) = Rincón / esquina; **Kaeshi** (返) = Inversión / contraataque (*Gaeshi* por eufonía). |
-| **13** | *Yoko-gake* | **Yoko** (横) = Lateral / de costado; **Gake** (掛) = Enganche / colgar (*Kake* por eufonía). |
-| **14** | *Yoko-guruma* | **Yoko** (横) = Lateral / de costado; **Guruma** (車) = Rueda. |
-| **15** | *Uki-waza* | **Uki** (浮) = Flotante; **Waza** (技) = Técnica. |
+| Término Japonés | Kanji / Kana | Significado Conceptual en Judo |
+| :--- | :--- | :--- |
+| **Ashi** | 足 | Pie / pierna. |
+| **Gaeshi / Kaeshi** | 返 | Inversión / contraataque (cambia a *gaeshi* por eufonía al unirse a otra palabra). |
+| **Guruma** | 車 | Rueda / molinete. |
+| **Gake / Kake** | 掛 | Enganche / colgar (cambia a *gake* por eufonía). |
+| **Goshi / Koshi** | 腰 | Cadera. |
+| **Harai / Barai** | 払い | Barrido / desbrozar. |
+| **Kata** | 肩 | Hombro. |
+| **Komi** | 込み | Incluir / meter hacia adentro. |
+| **Mata** | 股 | Muslo / entrepierna. |
+| **Nage** | 投 | Proyección / lanzamiento general. |
+| **Okuri** | 送り | Enviar / acompañar / deslizar. |
+| **Otoshi** | 落 | Caída / derribo vertical hacia abajo. |
+| **Sasae** | 支え | Sostener / bloquear / apuntalar. |
+| **Seoi** | 背負 | Cargar a la espalda / hombro. |
+| **Sumi** | 隅 | Rincón / esquina. |
+| **Sutemi** | 捨て身 | Sacrificio del cuerpo (*sute* = abandonar/sacrificar, *mi* = cuerpo). |
+| **Tomoe** | 巴 | Círculo / remolino / coma heráldica tradicional japonesa. |
+| **Tsuri** | 吊 | Tirar o levantar hacia arriba (con los brazos o solapas). |
+| **Uchi** | 内 | Interior / adentro. |
+| **Uki** | 浮 | Flotante / boyante / despegado del suelo. |
+| **Ura** | 裏 | Reverso / espalda / posterior / contra. |
+| **Waza** | 技 | Técnica / habilidad. |
+| **Yoko** | 横 | Lateral / de costado. |
