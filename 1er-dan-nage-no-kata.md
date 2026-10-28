@@ -70,8 +70,8 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 | N.º | Técnica | Traducción | Ilustración / Imagen |
 | :---: | :--- | :--- | :---: |
 | **4** | *Uki-goshi* | Cadera flotante | <img src="images/uki-goshi.png" alt="Uki-goshi" width="180"> |
-| **5** | *O-goshi* | Gran cadera | <img src="images/o-goshi.png" alt="O-goshi" width="180"> |
-| **6** | *Harai-goshi* | Cadera barrida | <img src="images/harai-goshi.png" alt="Harai-goshi" width="180"> |
+| **5** | *Harai-goshi* | Cadera barrida | <img src="images/harai-goshi.png" alt="Harai-goshi" width="180"> |
+| **6** | *Tsurikomi-goshi* | Cadera tirando y levantando | <img src="images/tsurikomi-goshi.png" alt="Tsurikomi-goshi" width="180"> |
 
 ---
 
