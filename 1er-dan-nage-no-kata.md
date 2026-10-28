@@ -4,12 +4,11 @@
 
 ## 📌 Clasificación General de las Katas Oficiales
 
-El programa de examen técnico para el grado de *Shodan* abarca las proyecciones de pie (*Nage-waza*) a través del **Nage-no-Kata** y los controles de suelo (*Katame-waza*) a través del **Katame-no-Kata**:
+El programa de examen técnico para el grado de *Shodan* abarca las proyecciones de pie (*Nage-waza*) a través del **Nage-no-Kata**:
 
 | Kata | Enfoque Principal | Familias Incluidas | N.º de Técnicas |
 | :--- | :--- | :--- | :---: |
 | **Nage-no-Kata** | Proyecciones de Pie (*Tachi-waza*) | *Te-waza*, *Koshi-waza*, *Ashi-waza*, *Ma-sutemi*, *Yoko-sutemi* | **15** |
-| **Katame-no-Kata** | Controles de Suelo (*Ne-waza*) | *Osaekomi-waza*, *Shime-waza*, *Kansetsu-waza* | **15** |
 
 ---
 
@@ -27,31 +26,19 @@ El programa oficial de proyección de pie (*Tachi-waza*) para el grado de *Shoda
 
 ---
 
-## 📌 Clasificación General de las Técnicas de Suelo (Katame-waza)
-
-El programa oficial de control en suelo (*Ne-waza*) para el grado de *Shodan* se clasifica en tres familias principales:
-
-| Grupo | Nombre Japonés | Traducción Técnica |
-| :--- | :--- | :--- |
-| **1.** | *Osaekomi-waza* | Técnicas de inmovilización / control corporal |
-| **2.** | *Shime-waza* | Técnicas de estrangulación (al cuello / solapa) |
-| **3.** | *Kansetsu-waza* | Técnicas de luxación articular (articulación del codo) |
-
----
-
 ## 📌 Las Tres Fases de Ejecución Técnica (Sankyo)
 
-Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada técnica requiere la sincronización impecable de tres etapas fundamentales:
+La ejecución de cada técnica requiere la sincronización impecable de tres etapas fundamentales:
 
-| Fase | Término Japonés | Descripción en Pie (*Tachi-waza*) | Descripción en Suelo (*Ne-waza*) |
-| :---: | :--- | :--- | :--- |
-| **1.ª** | *Kuzushi* | Desequilibrio en una de las 8 direcciones (*Happo-no-kuzushi*). | Anulación de los puntos de apoyo o postura defensiva de *Uke*. |
-| **2.ª** | *Tsukuri* | Colocación y entrada del cuerpo de *Tori* en la posición óptima. | Toma de agarres (*Kumi-kata*) y fijación del ángulo de control. |
-| **3.ª** | *Kake* | Aplicación de la fuerza final y proyección limpia sobre el tatami. | Cierre del control (inmovilización, estrangulación o luxación). |
+| Fase | Término Japonés | Descripción en Pie (*Tachi-waza*) |
+| :---: | :--- | :--- |
+| **1.ª** | *Kuzushi* | Desequilibrio en una de las 8 direcciones (*Happo-no-kuzushi*). |
+| **2.ª** | *Tsukuri* | Colocación y entrada del cuerpo de *Tori* en la posición óptima. |
+| **3.ª** | *Kake* | Aplicación de la fuerza final y proyección limpia sobre el tatami. |
 
 ---
 
-## 🥋 Parte 1: Las 15 Técnicas del Nage-no-Kata (Proyecciones)
+## 🥋 Las 15 Técnicas del Nage-no-Kata (Proyecciones)
 
 ---
 
@@ -102,3 +89,25 @@ Tanto en *Tachi-waza* (pie) como en *Ne-waza* (suelo), la ejecución de cada té
 | **13** | *Yoko-gake* | Enganche lateral<br><details><summary>Mecánica</summary>Caída hacia el costado lateral mientras se extiende la pierna para enganchar y derribar el tobillo de Uke.</details> | <img src="images/yoko-gake.png" alt="Yoko-gake" width="180"> |
 | **14** | *Yoko-guruma* | Rueda lateral<br><details><summary>Mecánica</summary>Entrada donde Tori introduce la pierna entre las de Uke y gira lateralmente en forma de rueda sobre el tatami.</details> | <img src="images/yoko-guruma.png" alt="Yoko-guruma" width="180"> |
 | **15** | *Uki-waza* | Técnica flotante<br><details><summary>Mecánica</summary>Caída sobre el costado en diagonal arrastrando y guiando a Uke hacia la esquina mientras avanza.</details> | <img src="images/uki-waza.png" alt="Uki-waza" width="180"> |
+
+---
+
+## 📖 Glosario Técnico: Desglose de Términos del Nage-no-Kata
+
+| N.º | Técnica | Desglose y Traducción de Términos |
+| :---: | :--- | :--- |
+| **1** | *Uki-otoshi* | **Uki** (浮) = Flotante / boyante; **Otoshi** (落) = Caída / derribo vertical hacia abajo. |
+| **2** | *Seoi-nage* | **Seoi** (背負) = Cargar a la espalda / hombro; **Nage** (投) = Proyección. |
+| **3** | *Kata-guruma* | **Kata** (肩) = Hombro; **Guruma** (車) = Rueda / molinete. |
+| **4** | *Uki-goshi* | **Uki** (浮) = Flotante; **Koshi** (腰) = Cadera. |
+| **5** | *Harai-goshi* | **Harai** (払い) = Barrer / desbrozar; **Koshi** (腰) = Cadera. |
+| **6** | *Tsurikomi-goshi* | **Tsuri** (吊) = Tirar hacia arriba; **Komi** (込み) = Incluir / meter; **Koshi** (腰) = Cadera. |
+| **7** | *Okuri-ashi-harai* | **Okuri** (送り) = Enviar / acompañar; **Ashi** (足) = Pie / pierna; **Harai** (払い) = Barrido. |
+| **8** | *Sasae-tsurikomi-ashi* | **Sasae** (支え) = Sostener / bloquear; **Tsuri** (吊) = Tirar hacia arriba; **Komi** (込み) = Meter; **Ashi** (足) = Pie / pierna. |
+| **9** | *Uchi-mata* | **Uchi** (内) = Interior / adentro; **Mata** (股) = Muslo / entrepierna. |
+| **10** | *Tomoe-nage* | **Tomoe** (巴) = Círculo / remolino / coma heráldica japonesa; **Nage** (投) = Proyección. |
+| **11** | *Ura-nage* | **Ura** (裏) = Reverso / espalda / posterior; **Nage** (投) = Proyección. |
+| **12** | *Sumi-gaeshi* | **Sumi** (隅) = Rincón / esquina; **Kaeshi** (返) = Inversión / contraataque (*Gaeshi* por eufonía). |
+| **13** | *Yoko-gake* | **Yoko** (横) = Lateral / de costado; **Gake** (掛) = Enganche / colgar (*Kake* por eufonía). |
+| **14** | *Yoko-guruma* | **Yoko** (横) = Lateral / de costado; **Guruma** (車) = Rueda. |
+| **15** | *Uki-waza* | **Uki** (浮) = Flotante; **Waza** (技) = Técnica. |
