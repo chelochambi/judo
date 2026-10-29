@@ -12,14 +12,14 @@ El primer grupo del Gokyo establece las bases mecánicas del Judo a través de 8
 
 | N.º | Grupo | Técnica | Traducción | Ilustración | Nage-no-Kata (15) |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| **1** | A | *De-ashi-barai (harai)* | Barrido al pie que avanza | <img src="images/de-ashi-harai.png" alt="De-ashi-barai" width="140"> | ❌ |
-| **2** | A | *Hiza-guruma* | Rueda a la rodilla | <img src="images/hiza-guruma.png" alt="Hiza-guruma" width="140"> | ❌ |
-| **3** | A | *Sasae-tsurikomi-ashi* | Bloqueo al tobillo tirando y levantando | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="140"> | ✅ |
-| **4** | K | *Uki-goshi* | Cadera flotante | <img src="images/uki-goshi.png" alt="Uki-goshi" width="140"> | ✅ |
-| **5** | A | *O-soto-gari* | Gran sega exterior | <img src="images/o-soto-gari.png" alt="O-soto-gari" width="140"> | ❌ |
-| **6** | K | *O-goshi* | Gran cadera | <img src="images/o-goshi.png" alt="O-goshi" width="140"> | ❌ |
-| **7** | A | *Ouchi-gari* | Gran sega interior | <img src="images/o-uchi-gari.png" alt="Ouchi-gari" width="140"> | ❌ |
-| **8** | T | *Seoi-nage* | Proyección de hombro a través de un punto | <img src="images/seoi-nage.png" alt="Seoi-nage" width="140"> | ✅ |
+| **1** | A | *De-ashi-barai (harai)* | - De: avanzado/saliente<br>- Ashi: pie / pierna<br>- Barai / harai: barrido | <img src="images/de-ashi-harai.png" alt="De-ashi-barai" width="140"> | ❌ |
+| **2** | A | *Hiza-guruma* | - Hiza: rodilla<br>- Guruma: rueda | <img src="images/hiza-guruma.png" alt="Hiza-guruma" width="140"> | ❌ |
+| **3** | A | *Sasae-tsurikomi-ashi* | - Sasae: soporte / bloqueo<br>- Tsurikomi: tirar y levantar<br>- Ashi: pie / pierna | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="140"> | ✅ |
+| **4** | K | *Uki-goshi* | - Uki: flotante<br>- Goshi / koshi: cadera | <img src="images/uki-goshi.png" alt="uki-goshi" width="140"> | ✅ |
+| **5** | A | *O-soto-gari* | - O: grande<br>- Soto: exterior<br>- Gari: siega | <img src="images/o-soto-gari.png" alt="O-soto-gari" width="140"> | ❌ |
+| **6** | K | *O-goshi* | - O: grande<br>- Goshi / koshi: cadera | <img src="images/o-goshi.png" alt="O-goshi" width="140"> | ❌ |
+| **7** | A | *Ouchi-gari* | - O: grande<br>- Uchi: interior<br>- Gari: siega | <img src="images/o-uchi-gari.png" alt="O-uchi-gari" width="140"> | ❌ |
+| **8** | T | *Seoi-nage* | - Seoi: llevar a la espalda<br>- Nage: proyección | <img src="images/seoi-nage.png" alt="Seoi-nage" width="140"> | ✅ |
 
 ## 🤼 Técnicas de Suelo (Katame-waza / Ne-waza)
 
