@@ -92,6 +92,49 @@ La ejecución de cada técnica requiere la sincronización impecable de tres eta
 
 ---
 
+graph TD
+    %% Estilos de Nodos
+    classDef inicio fill:#2c3e50,stroke:#34495e,stroke-width:2px,color:#fff;
+    classDef fase fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff;
+    classDef accion fill:#ecf0f1,stroke:#bdc3c7,stroke-width:1px,color:#2c3e50;
+    classDef fin fill:#27ae60,stroke:#27ae60,stroke-width:2px,color:#fff;
+
+    %% Flujo Principal
+    A[ENTRADA AL TATAMI] ::: inicio --> B[SALUDO INICIAL] ::: fase
+    B --> C[INICIO DEL KATA] ::: fase
+    C --> D[BLOQUE DE EJECUCIÓN] ::: fase
+    D --> E[CIERRE DE TÉCNICAS] ::: fase
+    E --> F[SALUDO FINAL Y RETIRADA] ::: fin
+
+    %% Subgráficos y Términos Puntuales
+
+    subgraph 1_Saludo_Inicial ["1. Saludo Inicial (Reigi)"]
+        B1[Borde del Tatami] ::: accion --> B2[Ritsurei / Saludo de pie] ::: accion
+        B2 --> B3[Desplazamiento a Ma-ai] ::: accion
+        B3 --> B4[Zarei / Saludo en rodillas] ::: accion
+        B4 --> B5[Shizen-tai / Postural natural] ::: accion
+    end
+
+    subgraph 2_Bloque_Ejecucion ["2. Bloque Técnico (15 Proyecciones x 2 Lados)"]
+        D1[Te-waza / Brazos] ::: accion --> D2[Koshi-waza / Caderas] ::: accion
+        D2 --> D3[Ashi-waza / Pies] ::: accion
+        D3 --> D4[Ma-sutemi-waza / Sacrificio Frontal] ::: accion
+        D4 --> D5[Yoko-sutemi-waza / Sacrificio Lateral] ::: accion
+    end
+
+    subgraph 3_Cierre_y_Retirada ["3. Cierre y Salida (Compostura y Zanshin)"]
+        E1[Uki-waza / Última técnica] ::: accion --> E2[Incorporación Sincronizada] ::: accion
+        E2 --> E3[Recomposición de Ma-ai] ::: accion
+        E3 --> E4[Zarei & Ritsurei Finales] ::: accion
+        E4 --> E5[Retirada Sobria sin Fatiga Visible] ::: accion
+    end
+
+    %% Conexiones internas
+    B5 --> D1
+    D5 --> E1
+
+---
+
 ## 📖 Glosario Técnico: Raíces y Palabras Individuales
 
 | Término Japonés | Kanji / Kana | Significado Conceptual en Judo |
