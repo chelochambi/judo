@@ -1,4 +1,4 @@
-# 🥋 Gokyo 1: 5.º Kyu (Cinturón café) 🟤
+# 🥋 Gokyo 1: 5.º Kyu (Cinturón Marrón) 🟤
 
 ---
 
