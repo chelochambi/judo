@@ -1,4 +1,4 @@
-# 🥋 Gokyo 4: 2.º Kyu (Cinturón Azul)
+# 🥋 Gokyo 4: 2.º Kyu (Cinturón Azul) 🔵
 
 ---
 

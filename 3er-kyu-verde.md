@@ -1,4 +1,4 @@
-# 🥋 Gokyo 3: 3.er Kyu (Cinturón Verde)
+# 🥋 Gokyo 3: 3.er Kyu (Cinturón Verde) 🟢
 
 ---
 

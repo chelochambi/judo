@@ -1,4 +1,4 @@
-# 🥋 Gokyo 2: 4.º Kyu (Cinturón Naranja)
+# 🥋 Gokyo 2: 4.º Kyu (Cinturón Naranja) 🟠
 
 ---
 
