@@ -11,15 +11,15 @@ El tercer grupo incorpora técnicas complejas de nivel intermedio, introduciendo
 ## 🥋 Técnicas Oficiales
 
 | N.º | Grupo | Técnica | Traducción | Ilustración | Nage-no-Kata (15) |
-| :---: | :--- | :--- | :--- | :---: | :---: |
-| **1** | A | *Kosoto-gake* | Pequeño enganche exterior | <img src="images/kosoto-gake.png" alt="Kosoto-gake" width="180"> | ❌ |
-| **2** | K | *Tsuri-goshi* | Elevar con la cadera sujetando el cinturón | <img src="images/tsuri-goshi.png" alt="Tsuri-goshi" width="180"> | ❌ |
-| **3** | T | *Yoko-otoshi* | Caída lateral | <img src="images/yoko-otoshi.png" alt="Yoko-otoshi" width="180"> | ❌ |
-| **4** | A | *Ashi-guruma* | Rueda por la pierna | <img src="images/ashi-guruma.png" alt="Ashi-guruma" width="180"> | ❌ |
-| **5** | K | *Hane-goshi* | Cadera en resorte / salto | <img src="images/hane-goshi.png" alt="Hane-goshi" width="180"> | ❌ |
-| **6** | A | *Harai-tsurikomi-ashi* | Barrido al pie tirando y levantando | <img src="images/harai-tsurikomi-ashi.png" alt="Harai-tsurikomi-ashi" width="180"> | ❌ |
-| **7** | T | *Tomoe-nage* | Proyección en círculo | <img src="images/tomoe-nage.png" alt="Tomoe-nage" width="180"> | ✅ |
-| **8** | T | *Kata-guruma* | Rueda por los hombros | <img src="images/kata-guruma.png" alt="Kata-guruma" width="180"> | ✅ |
+| :---: | :---: | :--- | :--- | :---: | :---: |
+| **1** | A | *Kosoto-gake* | - Ko: pequeño<br>- Soto: exterior<br>- Gake: enganche / colgar | <img src="images/kosoto-gake.png" alt="Kosoto-gake" width="180"> | ❌ |
+| **2** | K | *Tsuri-goshi* | - Tsuri: pescar / levantar<br>- Goshi / koshi: cadera | <img src="images/tsuri-goshi.png" alt="Tsuri-goshi" width="180"> | ❌ |
+| **3** | T | *Yoko-otoshi* | - Yoko: lateral / lado<br>- Otoshi: caída | <img src="images/yoko-otoshi.png" alt="Yoko-otoshi" width="180"> | ❌ |
+| **4** | A | *Ashi-guruma* | - Ashi: pie / pierna<br>- Guruma: rueda | <img src="images/ashi-guruma.png" alt="Ashi-guruma" width="180"> | ❌ |
+| **5** | K | *Hane-goshi* | - Hane: salto / resorte<br>- Goshi / koshi: cadera | <img src="images/hane-goshi.png" alt="Hane-goshi" width="180"> | ❌ |
+| **6** | A | *Harai-tsurikomi-ashi* | - Harai: barrido<br>- Tsurikomi: tirar y levantar<br>- Ashi: pie / pierna | <img src="images/harai-tsurikomi-ashi.png" alt="Harai-tsurikomi-ashi" width="180"> | ❌ |
+| **7** | T | *Tomoe-nage* | - Tomoe: círculo / coma circular<br>- Nage: proyección | <img src="images/tomoe-nage.png" alt="Tomoe-nage" width="180"> | ✅ |
+| **8** | T | *Kata-guruma* | - Kata: hombro<br>- Guruma: rueda | <img src="images/kata-guruma.png" alt="Kata-guruma" width="180"> | ✅ |
 
 ## 🤼 Técnicas de Suelo (Katame-waza / Ne-waza)
 
