@@ -11,7 +11,7 @@ El primer grupo del Gokyo establece las bases mecánicas del Judo a través de 8
 ## 🥋 Técnicas Oficiales
 
 | N.º | Grupo | Técnica | Traducción | Ilustración | Nage-no-Kata (15) |
-| :---: | :--- | :--- | :--- | :---: | :---: |
+| :---: | :---: | :--- | :--- | :---: | :---: |
 | **1** | A | *De-ashi-barai (harai)* | - De: avanzado/saliente<br>- Ashi: pie / pierna<br>- Barai / harai: barrido | <img src="images/de-ashi-harai.png" alt="De-ashi-barai" width="140"> | ❌ |
 | **2** | A | *Hiza-guruma* | - Hiza: rodilla<br>- Guruma: rueda | <img src="images/hiza-guruma.png" alt="Hiza-guruma" width="140"> | ❌ |
 | **3** | A | *Sasae-tsurikomi-ashi* | - Sasae: soporte / bloqueo<br>- Tsurikomi: tirar y levantar<br>- Ashi: pie / pierna | <img src="images/sasae-tsurikomi-ashi.png" alt="Sasae-tsurikomi-ashi" width="140"> | ✅ |
