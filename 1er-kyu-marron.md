@@ -12,14 +12,14 @@ El primer grado establece las bases del Judo de pie (*Tachi-waza*) a través de 
 
 | N.º | Grupo | Técnica | Traducción | Ilustración | Nage-no-Kata (15) |
 | :---: | :--- | :--- | :--- | :---: | :---: |
-| **1** | Ashi-waza | *Osoto-guruma* | Gran rueda exterior | <img src="images/osoto-guruma.png" alt="Osoto-guruma" width="180"> | ❌ |
-| **2** | Te-waza | *Uki-otoshi* | Caída flotante | <img src="images/uki-otoshi.png" alt="uki-otoshi" width="180"> | ✅ |
-| **3** | Yoko-sutemi-waza | *Yoko-wakare* | Separación lateral | <img src="images/yoko-wakare.png" alt="Yoko-wakare" width="180"> | ❌ |
-| **4** | Yoko-sutemi-waza | *Yoko-guruma* | Rueda lateral | <img src="images/yoko-guruma.png" alt="Yoko-guruma" width="180"> | ✅ |
-| **5** | Koshi-waza | *Ushiro-goshi* | Cadera hacia atrás | <img src="images/ushiro-goshi.png" alt="Ushiro-goshi" width="180"> | ❌ |
-| **6** | Ma-sutemi-waza | *Ura-nage* | Proyección hacia atrás | <img src="images/ura-nage.png" alt="Ura-nage" width="180"> | ✅ |
-| **7** | Te-waza | *Sumi-otoshi* | Caída en la esquina | <img src="images/sumi-otoshi.png" alt="sumi-otoshi" width="180"> | ❌ |
-| **8** | Yoko-sutemi-waza | *Yoko-gake* | Gancho lateral | <img src="images/yoko-gake.png" alt="Yoko-gake" width="180"> | ✅ |
+| **1** | A | *Osoto-guruma* | Gran rueda exterior | <img src="images/osoto-guruma.png" alt="Osoto-guruma" width="180"> | ❌ |
+| **2** | T | *Uki-otoshi* | Caída flotante | <img src="images/uki-otoshi.png" alt="uki-otoshi" width="180"> | ✅ |
+| **3** | T | *Yoko-wakare* | Separación lateral | <img src="images/yoko-wakare.png" alt="Yoko-wakare" width="180"> | ❌ |
+| **4** | T | *Yoko-guruma* | Rueda lateral | <img src="images/yoko-guruma.png" alt="Yoko-guruma" width="180"> | ✅ |
+| **5** | K | *Ushiro-goshi* | Cadera hacia atrás | <img src="images/ushiro-goshi.png" alt="Ushiro-goshi" width="180"> | ❌ |
+| **6** | T | *Ura-nage* | Proyección hacia atrás | <img src="images/ura-nage.png" alt="Ura-nage" width="180"> | ✅ |
+| **7** | T | *Sumi-otoshi* | Caída en la esquina | <img src="images/sumi-otoshi.png" alt="sumi-otoshi" width="180"> | ❌ |
+| **8** | T | *Yoko-gake* | Gancho lateral | <img src="images/yoko-gake.png" alt="Yoko-gake" width="180"> | ✅ |
 
 ---
 
