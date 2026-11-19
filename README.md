@@ -9,9 +9,23 @@
 
 ## 📌 Tabla de Contenidos
 
-- [📖 Historia y Orígenes](#-principios-filosóficos-y-código-moral
-- [🏛️ Clasificación de las Técnicasaza
-- [🥋 Sistema de Grados y Cinturones](#-sistema-de-grados-y-cinturonessitorio](#-estructura-del-repositorioistoria y Orígenes
+- [🥋 Base de Conocimiento de Judo (Jūdō - 柔道)](#-base-de-conocimiento-de-judo-jūdō---柔道)
+  - [📌 Tabla de Contenidos](#-tabla-de-contenidos)
+- [📖 Historia y Orígenes](#-historia-y-orígenes)
+  - [⏳ Hitos Históricos del Judo](#-hitos-históricos-del-judo)
+- [☯️ Principios Filosóficos y Código Moral](#️-principios-filosóficos-y-código-moral)
+  - [📜 Código Moral del Judoca](#-código-moral-del-judoca)
+    - [Valores Fundamentales](#valores-fundamentales)
+- [🏛️ Clasificación de las Técnicas (Waza)](#️-clasificación-de-las-técnicas-waza)
+- [🥋 Sistema de Grados y Cinturones (Kyu y Dan)](#-sistema-de-grados-y-cinturones-kyu-y-dan)
+    - [Escalafón de Grados](#escalafón-de-grados)
+- [📂 Estructura del Repositorio y Guías de Estudio](#-estructura-del-repositorio-y-guías-de-estudio)
+- [🎯 Objetivo del Repositorio](#-objetivo-del-repositorio)
+    - [「精力善用 • 自他共栄」](#精力善用--自他共栄)
+
+---
+
+# 📖 Historia y Orígenes
 
 El **Judo** fue fundado en **1882** en Tokio, Japón, por el maestro **Jigorō Kanō (嘉納 治五郎)**.
 
@@ -88,7 +102,6 @@ Las técnicas del Judo se organizan en tres grandes categorías:
 
 ```mermaid
 graph TD
-
     Waza["🥋 Técnicas de Judo"]
 
     Nage["Nage-waza<br/>Proyecciones"]
@@ -172,7 +185,7 @@ Las guías están organizadas según el nivel técnico del practicante.
 
 ---
 
-## 🎯 Objetivo del Repositorio
+# 🎯 Objetivo del Repositorio
 
 Este repositorio busca servir como:
 
@@ -184,7 +197,7 @@ Este repositorio busca servir como:
 
 ---
 
-<div align="center">
+<p align="center">
 
 ### 「精力善用 • 自他共栄」
 
@@ -196,4 +209,4 @@ Este repositorio busca servir como:
 
 *Guía de estudio y referencia técnica para la práctica del Judo Kodokan.*
 
-</div>
+</p>
