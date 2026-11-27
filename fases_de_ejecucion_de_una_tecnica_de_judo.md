@@ -64,6 +64,40 @@ La transición entre **Kuzushi**, **Tsukuri** y **Kake** debe ser continua y sin
 
 En el entrenamiento tradicional, estas subpartes se mecanizan primero de forma aislada mediante **Uchi-komi** (repeticiones de entrada centradas en el *Kuzushi* y *Tsukuri* sin proyectar) antes de pasar al **Nage-komi** (ejecución completa de la técnica incluyendo el *Kake*).
 
+```
+[1. KUMI-KATA: Agarre y preparación]
+├── Ma-ai ──▶ Gestión de la distancia
+├── Shisei ──▶ Postura (Shizentai / Jigotai)
+├── Sente ──▶ Iniciativa y disputa de agarres
+└── Kake-goe/Finta ──▶ Amago para provocar reacción
+│
+▼
+[2. KUZUSHI: Desequilibrio]
+├── Happo-no-kuzushi ──▶ Desequilibrio en las 8 direcciones
+├── Hiki-dashi ──▶ Tracción con Hikite y Tsurite
+└── Handō-no-kuzushi ──▶ Aprovechar la reacción o impulso del rival
+│
+▼
+[3. TSUKURI: Colocación y entrada]
+├── Tai-sabaki ──▶ Desplazamiento y giro corporal
+├── Jiku-ashi ──▶ Pie de apoyo y eje de rotación
+├── Koshi/Te/Ashi ──▶ Contacto biomecánico (cadera, mano o pie)
+└── Mitchaku ──▶ Contacto estrecho sin espacios muertos
+│
+▼
+[4. KAKE: Ejecución y proyección]
+├── Kime ──▶ Impulso explosivo final
+├── Kaiten ──▶ Rotación y trayectoria hacia el tatami
+└── Hikite-no-kime ──▶ Cierre de tracción para controlar la caída
+│
+▼
+[5. ZANSHIN Y CONTINUIDAD: Control posterior]
+├── Zanshin ──▶ Postura firme, equilibrio y atención plena
+├── Renraku-waza ──▶ Encadenamiento con otra técnica si no entra
+└── Ne-waza-iko ──▶ Transición fluida al trabajo en suelo
+```
+
+
 ```mermaid
 flowchart LR
     U["Uchi-komi<br/>(Entrada: Kuzushi + Tsukuri sin proyectar)"] --> N["Nage-komi<br/>(Ejecución completa: Kuzushi + Tsukuri + Kake)"]
