@@ -15,7 +15,7 @@ Al descomponer los términos compuestos en sus raíces individuales (por ejemplo
 | **Eri** | Solapa / Cuello | Agarre del cuello del *judogi* empleado en controles y estrangulaciones. |
 | **Finta** | Amago / Engaño | Movimiento previo o ataque falso para provocar una reacción que abra espacios. |
 | **Gaeshi (Kaeshi)** | Inversión / Contra / Voltear | Responder o invertir la técnica aplicada por el rival (*Kaeshi-waza*). |
-| **Gake (Kake)** | Enganche / Colgar / Ejecución | Enganchar el pie/tobillo del oponente, o fase culminante donde se aplica el impulso final para proyectar. |
+| **Gake** | Enganche / Colgar | Enganchar o fijar el pie/tobillo del oponente a ras del suelo. |
 | **Garami** | Entrelazado / Envolver | Control articulado o cruzado envolviendo las extremidades. |
 | **Gari (Kari)** | Sega / Segar | Acción de cortar o segar la pierna del rival (como con una hoz). |
 | **Gatame (Katame)** | Control / Inmovilización / Fijación | Mantener bajo control el cuerpo o la articulación del rival. |
@@ -39,14 +39,20 @@ Al descomponer los términos compuestos en sus raíces individuales (por ejemplo
 | **Jime (Shime)** | Estrangulación / Presión | Presión ejercida sobre las arterias carótidas o la tráquea. |
 | **Judogi** | Uniforme de judo | Traje tradicional compuesto por chaqueta (*uwagi*), pantalón (*zubon*) y cinturón (*obi*). |
 | **Juji** | Cruz / Cruzado | Posición cruzada de los brazos o piernas en el ataque. |
+| **Kaeshi (Gaeshi)** | Contraataque / Inversión | Respuesta técnica ejecutada invirtiendo o aprovechando el ataque fallido de *Uke* (*Kaeshi-waza*). |
 | **Kaiten** | Rotación / Giro | Movimiento giratorio o arco de vuelo que se imprime a *Uke* hacia el tatami. |
+| **Kake** | Ejecución / Proyección / Aplicar | Fase culminante de la proyección donde se aplica el impulso final para lanzar a *Uke* al tatami (también significa enganche/colgar como *Gake*). |
 | **Kami** | Arriba / Superior | Posición de control desde la zona de la cabeza del oponente. |
-| **Kansetsu** | Articulación / Luxación | Técnicas enfocadas en la articulación del codo. |
+| **Kansetsu** | Articulación / Luxación | Técnicas enfocadas en la articulación del codo (*Kansetsu-waza*). |
+| **Kari (Gari)** | Sega / Segar | Variante fonética de *Gari*; acción de segar la pierna de apoyo del rival. |
 | **Kata** | Hombro / Forma / Modo | Articulación del hombro, ejecución lateral o forma establecida de hacer algo (*Kumi-kata*). |
+| **Katame (Gatame)** | Control / Fijación / Sujeción | Variante fonética de *Gatame*; conjunto de técnicas de control e inmovilización. |
 | **Kesa** | Bufanda / Solapa cruzada | Control en diagonal cruzando el pecho del rival como un manto. |
-| **Kime** | Enfoque / Impulso explosivo | Aplicación precisa y enérgica de la fuerza en el instante culminante de la técnica. |
+| **Kime** | Enfoque / Impulso explosivo | Aplicación precisa y enérgica de la fuerza en el instante culminante de la técnica (*Hikite-no-kime*). |
 | **Ko** | Pequeño / Pequeña | Indica una trayectoria técnica o barrido más corto o fino. |
-| **Komi** | Entrar / Traer hacia adentro | Movimiento de aproximación pegando el cuerpo del rival al propio (*Uchi-komi*, *Nage-komi*). |
+| **Kodokan** | Instituto del camino | Escuela y sede mundial del judo fundada por Jigoro Kano en 1882. |
+| **Komi** | Entrar / Traer hacia adentro | Movimiento de aproximación pegando el cuerpo del rival al propio (*Uchi-komi*, *Nage-komi*, *Osae-komi*). |
+| **Koshi (Goshi)** | Cadera / Cintura | Variante fonética de *Goshi*; apoyo, carga o contacto biomecánico con la cadera. |
 | **Kukyu (Kyu)** | Vacío / Aire | Proyección aprovechando la ausencia de apoyo o la dirección del aire. |
 | **Kumi** | Agarre / Enlace / Unión | Toma de contacto y sujeción sobre el *judogi* del oponente (*Kumi-kata*). |
 | **Kuzure** | Variante / Modificación | Inmovilización o técnica modificada de su forma fundamental. |
@@ -58,10 +64,10 @@ Al descomponer los términos compuestos en sus raíces individuales (por ejemplo
 | **Morote** | Ambas manos / Dos manos | Uso coordinado de ambas manos agarrando directamente al rival. |
 | **Nage** | Proyección / Lanzamiento | Término general para derribos o lanzamientos (*Nage-waza*, *Nage-komi*). |
 | **Nami** | Normal / Ordinario | Disposición estándar de los agarres en cruz (palmas hacia abajo). |
-| **Ne** | Suelo / Mat | Trabajo técnico realizado en el suelo (*Ne-waza*). |
+| **Ne** | Suelo / Mat | Trabajo técnico realizado en el suelo (*Ne-waza*, *Ne-waza-iko*). |
 | **O** | Gran / Grande | Indica una amplitud mayor en la acción de la técnica o del barrido. |
 | **Okuri** | Enviar / Acompañar | Desplazamiento coordinado o deslizamiento continuo. |
-| **Osaekomi** | Inmovilización | Mantener al oponente de espaldas contra el tatami. |
+| **Osae (Osaekomi)** | Presionar / Inmovilizar | Mantener al oponente presionado de espaldas contra el tatami (*Osae-komi-waza*). |
 | **Otoshi** | Caída / Descenso | Proyección mediante una fuerza o movimiento descendente directo. |
 | **Renraku** | Encadenamiento / Conexión | Enlace fluido de una técnica con otra cuando la primera es bloqueada (*Renraku-waza*). |
 | **Ryote** | Ambas manos | Agarre con ambas manos en el mismo objetivo. |
@@ -71,6 +77,7 @@ Al descomponer los términos compuestos en sus raíces individuales (por ejemplo
 | **Sente** | Iniciativa | Toma de la delantera táctica o aseguramiento previo del agarre y ritmo del combate. |
 | **Seoi** | Cargar en la espalda | Cargar al oponente sobre el dorso o la espalda como base. |
 | **Shiho** | Cuatro esquinas / Cuatro puntos | Control sujetando los cuatro puntos de apoyo del rival. |
+| **Shime (Jime)** | Estrangulación / Presión | Variante fonética de *Jime*; presión ejercida sobre el cuello o carótidas (*Shime-waza*). |
 | **Shisei** | Postura corporal | Colocación general del cuerpo y distribución del peso durante el combate. |
 | **Shizen** | Natural / Espontáneo | Posición erguida, equilibrada y relajada que facilita moverse en cualquier dirección (*Shizentai*). |
 | **Sode** | Manga | Agarre realizado en las mangas de la chaqueta del *judogi*. |
